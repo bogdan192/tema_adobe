@@ -1,0 +1,1123 @@
+{
+    "version": 1405707625,
+    "totalNumberOfItems": 200,
+    "totalNumberOfPages": 4,
+    "_links": {
+        "self": {
+            "href": "/publications/com.viewerdemo_tablet_r33_2/views/fixedfolios001;version=1405707625/elements"
+        },
+        "latestVersion": {
+            "href": "/publications/com.viewerdemo_tablet_r33_2/views/fixedfolios001/elements"
+        },
+        "prev": {
+            "href": "/publications/com.viewerdemo_tablet_r33_2/views/fixedfolios001;version=1405707625/elements?before=MTQwNTcwNzYyNTowMDAwMDAwMDAwOjMwMjczNTU="
+        },
+        "next": {
+            "href": "/publications/com.viewerdemo_tablet_r33_2/views/fixedfolios001;version=1405707625/elements?after=MTQwNTcwNzYyNTowMDAwMDAwMDI1OjMwMzE3123="
+        }
+    },
+    "_embedded": {
+        "elements": [
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/01_1906CV_cover;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/01_1906CV_cover;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:01_1906CV_cover",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 52",
+                "description": "Canned Description 52",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "byline": "Follow Richard Levick on Twitter and circle him on Google+, where he comments daily on the issues impacting corporate brands."
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/02_1906ST_essay;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/02_1906ST_essay;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:02_1906ST_essay",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 53",
+                "description": "Canned Description 53",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "byline": "Follow Bruce Nussbaum on Twitter (BruceNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/03_1906ST_kia_fail;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/03_1906ST_kia_fail;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:03_1906ST_kia_fail",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 54",
+                "description": "Canned Description 54",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "byline": "Follow Joe Nussbaum on Twitter (JoeNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/04_dept_anderson_110117;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/04_dept_anderson_110117;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:04_dept_anderson_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 55",
+                "description": "Canned Description 55",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Fred Nussbaum on Twitter (FredNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/05_fiction_hwang_101101;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/05_fiction_hwang_101101;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:05_fiction_hwang_101101",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 56",
+                "description": "Canned Description 56",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Frank Nussbaum on Twitter (FrankNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/06_crit_lahr_110117;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/06_crit_lahr_110117;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:06_crit_lahr_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 57",
+                "description": "Canned Description 57",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Phil Nussbaum on Twitter (PhilNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/02_1906ST_essay;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/02_1906ST_essay;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:02_1906ST_essay",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 58",
+                "description": "Canned Description 58",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Bruce Nussbaum on Twitter (BruceNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/03_1906ST_kia_fail;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/03_1906ST_kia_fail;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:03_1906ST_kia_fail",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 59",
+                "description": "Canned Description 59",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "byline": "Follow Joe Nussbaum on Twitter (JoeNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/04_dept_anderson_110117;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/04_dept_anderson_110117;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:04_dept_anderson_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 60",
+                "description": "Canned Description 60",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Fred Nussbaum on Twitter (FredNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/05_fiction_hwang_101101;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/05_fiction_hwang_101101;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:05_fiction_hwang_101101",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 61",
+                "description": "Canned Description 61",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Frank Nussbaum on Twitter (FrankNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/06_crit_lahr_110117;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/06_crit_lahr_110117;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:06_crit_lahr_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 62",
+                "description": "Canned Description 62",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "byline": "Follow Phil Nussbaum on Twitter (PhilNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/02_1906ST_essay;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/02_1906ST_essay;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:02_1906ST_essay",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 63",
+                "description": "Canned Description 63",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Bruce Nussbaum on Twitter (BruceNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/03_1906ST_kia_fail;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/03_1906ST_kia_fail;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:03_1906ST_kia_fail",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 64",
+                "description": "Canned Description 64",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "byline": "Follow Joe Nussbaum on Twitter (JoeNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/04_dept_anderson_110117;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/04_dept_anderson_110117;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:04_dept_anderson_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 65",
+                "description": "Canned Description 65",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Fred Nussbaum on Twitter (FredNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/05_fiction_hwang_101101;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/05_fiction_hwang_101101;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:05_fiction_hwang_101101",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 66",
+                "description": "Canned Description 66",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Frank Nussbaum on Twitter (FrankNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/06_crit_lahr_110117;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/06_crit_lahr_110117;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:06_crit_lahr_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 67",
+                "description": "Canned Description 67",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Phil Nussbaum on Twitter (PhilNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/02_1906ST_essay;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/02_1906ST_essay;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:02_1906ST_essay",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 68",
+                "description": "Canned Description 68",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "byline": "Follow Bruce Nussbaum on Twitter (BruceNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/03_1906ST_kia_fail;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/03_1906ST_kia_fail;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:03_1906ST_kia_fail",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 69",
+                "description": "Canned Description 69",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Joe Nussbaum on Twitter (JoeNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/04_dept_anderson_110117;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/04_dept_anderson_110117;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:04_dept_anderson_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 70",
+                "description": "Canned Description 70",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Fred Nussbaum on Twitter (FredNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/05_fiction_hwang_101101;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/05_fiction_hwang_101101;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:05_fiction_hwang_101101",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 71",
+                "description": "Canned Description 71",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Frank Nussbaum on Twitter (FrankNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/06_crit_lahr_110117;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/06_crit_lahr_110117;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:06_crit_lahr_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 72",
+                "description": "Canned Description 72",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Phil Nussbaum on Twitter (PhilNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/02_1906ST_essay;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/02_1906ST_essay;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:02_1906ST_essay",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 73",
+                "description": "Canned Description 73",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Bruce Nussbaum on Twitter (BruceNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/03_1906ST_kia_fail;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/03_1906ST_kia_fail;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:03_1906ST_kia_fail",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 74",
+                "description": "Canned Description 74",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Joe Nussbaum on Twitter (JoeNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/04_dept_anderson_110117;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/04_dept_anderson_110117;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:04_dept_anderson_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 75",
+                "description": "Canned Description 75",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Fred Nussbaum on Twitter (FredNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/05_fiction_hwang_101101;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/05_fiction_hwang_101101;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:05_fiction_hwang_101101",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 76",
+                "description": "Canned Description 76",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "byline": "Follow Frank Nussbaum on Twitter (FrankNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/06_crit_lahr_110117;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/06_crit_lahr_110117;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:06_crit_lahr_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 77",
+                "description": "Canned Description 77",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Phil Nussbaum on Twitter (PhilNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/02_1906ST_essay;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/02_1906ST_essay;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:02_1906ST_essay",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 78",
+                "description": "Canned Description 78",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Bruce Nussbaum on Twitter (BruceNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/03_1906ST_kia_fail;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/03_1906ST_kia_fail;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:03_1906ST_kia_fail",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 79",
+                "description": "Canned Description 79",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Joe Nussbaum on Twitter (JoeNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/04_dept_anderson_110117;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/04_dept_anderson_110117;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:04_dept_anderson_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 80",
+                "description": "Canned Description 80",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Fred Nussbaum on Twitter (FredNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/05_fiction_hwang_101101;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/05_fiction_hwang_101101;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:05_fiction_hwang_101101",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 81",
+                "description": "Canned Description 81",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "byline": "Follow Frank Nussbaum on Twitter (FrankNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/06_crit_lahr_110117;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/06_crit_lahr_110117;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:06_crit_lahr_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 82",
+                "description": "Canned Description 82",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "byline": "Follow Phil Nussbaum on Twitter (PhilNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/02_1906ST_essay;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/02_1906ST_essay;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:02_1906ST_essay",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 83",
+                "description": "Canned Description 83",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Bruce Nussbaum on Twitter (BruceNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/03_1906ST_kia_fail;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/03_1906ST_kia_fail;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:03_1906ST_kia_fail",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 84",
+                "description": "Canned Description 84",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Joe Nussbaum on Twitter (JoeNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/04_dept_anderson_110117;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/04_dept_anderson_110117;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:04_dept_anderson_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 85",
+                "description": "Canned Description 85",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "byline": "Follow Fred Nussbaum on Twitter (FredNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/05_fiction_hwang_101101;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/05_fiction_hwang_101101;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:05_fiction_hwang_101101",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 86",
+                "description": "Canned Description 86",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Frank Nussbaum on Twitter (FrankNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/06_crit_lahr_110117;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/06_crit_lahr_110117;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:06_crit_lahr_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 87",
+                "description": "Canned Description 87",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "byline": "Follow Phil Nussbaum on Twitter (PhilNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/02_1906ST_essay;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/02_1906ST_essay;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:02_1906ST_essay",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 88",
+                "description": "Canned Description 88",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "byline": "Follow Bruce Nussbaum on Twitter (BruceNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/03_1906ST_kia_fail;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/03_1906ST_kia_fail;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:03_1906ST_kia_fail",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 89",
+                "description": "Canned Description 89",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "byline": "Follow Joe Nussbaum on Twitter (JoeNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/04_dept_anderson_110117;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/04_dept_anderson_110117;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:04_dept_anderson_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 90",
+                "description": "Canned Description 90",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Fred Nussbaum on Twitter (FredNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/05_fiction_hwang_101101;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/05_fiction_hwang_101101;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:05_fiction_hwang_101101",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 91",
+                "description": "Canned Description 91",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "byline": "Follow Frank Nussbaum on Twitter (FrankNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/06_crit_lahr_110117;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/06_crit_lahr_110117;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:06_crit_lahr_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 92",
+                "description": "Canned Description 92",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "byline": "Follow Phil Nussbaum on Twitter (PhilNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/03_1906ST_kia_fail;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/03_1906ST_kia_fail;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:03_1906ST_kia_fail",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 93",
+                "description": "Canned Description 93",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Joe Nussbaum on Twitter (JoeNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/04_dept_anderson_110117;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/04_dept_anderson_110117;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:04_dept_anderson_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 94",
+                "description": "Canned Description 94",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Fred Nussbaum on Twitter (FredNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/05_fiction_hwang_101101;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/05_fiction_hwang_101101;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:05_fiction_hwang_101101",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 95",
+                "description": "Canned Description 95",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "byline": "Follow Frank Nussbaum on Twitter (FrankNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/06_crit_lahr_110117;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/06_crit_lahr_110117;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:06_crit_lahr_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 96",
+                "description": "Canned Description 96",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "byline": "Follow Phil Nussbaum on Twitter (PhilNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/06_crit_lahr_110117;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/06_crit_lahr_110117;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:06_crit_lahr_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 97",
+                "description": "Canned Description 97",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "byline": "Follow Phil Nussbaum on Twitter (PhilNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/03_1906ST_kia_fail;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/03_1906ST_kia_fail;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:03_1906ST_kia_fail",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 98",
+                "description": "Canned Description 98",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Joe Nussbaum on Twitter (JoeNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/04_dept_anderson_110117;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/04_dept_anderson_110117;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:04_dept_anderson_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 99",
+                "description": "Canned Description 99",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "byline": "Follow Fred Nussbaum on Twitter (FredNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/05_fiction_hwang_101101;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/05_fiction_hwang_101101;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:05_fiction_hwang_101101",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 100",
+                "description": "Canned Description 5",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Frank Nussbaum on Twitter (FrankNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_tablet_r33_2/articles/06_crit_lahr_110117;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewer_shared_content_r33_2/articles/06_crit_lahr_110117;version=1405707625/contents/poster/poster_original.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:06_crit_lahr_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 101",
+                "description": "Canned Description 6",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Phil Nussbaum on Twitter (PhilNussbaum)"
+            }
+        ]
+    }
+}

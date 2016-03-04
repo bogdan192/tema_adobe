@@ -1,0 +1,184 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "http://jsonschema.net#",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "entityType": {
+      "id": "http://jsonschema.net/entityType#",
+      "type": "string",
+      "default": "layout",
+      "additionalProperties": false
+    },
+    "entityName": {
+      "id": "http://jsonschema.net/entityName#",
+      "type": "string",
+      "default": "Standard R33 Layout",
+      "additionalProperties": false
+    },
+    "entityId": {
+      "id": "http://jsonschema.net/entityId#",
+      "type": "string",
+      "default": "urn:publication:com.fastestcompany:layout:standard",
+      "additionalProperties": false
+    },
+    "version": {
+      "id": "http://jsonschema.net/version#",
+      "type": "integer",
+      "default": 1405707625,
+      "additionalProperties": false
+    },
+    "published": {
+      "id": "http://jsonschema.net/published#",
+      "type": "string",
+      "default": "2014-04-30T04:00:00Z",
+      "additionalProperties": false
+    },
+    "created": {
+      "id": "http://jsonschema.net/created#",
+      "type": "string",
+      "default": "2014-04-30T03:56:00Z",
+      "additionalProperties": false
+    },
+    "modified": {
+      "id": "http://jsonschema.net/modified#",
+      "type": "string",
+      "default": "2014-04-30T03:59:00Z",
+      "additionalProperties": false
+    },
+    "layoutType": {
+      "id": "http://jsonschema.net/layoutType#",
+      "type": "string",
+      "default": "layoutFormatVersion",
+      "additionalProperties": false
+    },
+    "cellsPerLine": {
+      "id": "http://jsonschema.net/cellsPerLine#",
+      "type": "integer",
+      "default": 1,
+      "additionalProperties": false
+    },
+    "cellAspectRatio": {
+      "id": "http://jsonschema.net/cellAspectRatio#",
+      "type": "integer",
+      "default": 1,
+      "additionalProperties": false
+    },
+    "cellSize": {
+      "id": "http://jsonschema.net/cellSize#",
+      "type": "string",
+      "default": "auto",
+      "additionalProperties": false
+    },
+    "margin": {
+      "id": "http://jsonschema.net/margin#",
+      "type": "string",
+      "default": "auto",
+      "additionalProperties": false
+    },
+    "gutter": {
+      "id": "http://jsonschema.net/gutter#",
+      "type": "string",
+      "default": "10dip",
+      "additionalProperties": false
+    },
+    "islands": {
+      "id": "http://jsonschema.net/islands#",
+      "type": "array",
+      "additionalProperties": false,
+      "items": {
+        "id": "http://jsonschema.net/islands/0#",
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "top": {
+            "id": "http://jsonschema.net/islands/0/top#",
+            "type": "integer",
+            "default": 0,
+            "additionalProperties": false
+          },
+          "left": {
+            "id": "http://jsonschema.net/islands/0/left#",
+            "type": "integer",
+            "default": 0,
+            "additionalProperties": false
+          },
+          "cardType": {
+            "id": "http://jsonschema.net/islands/0/cardType#",
+            "type": "string",
+            "default": "hero",
+            "additionalProperties": false
+          }
+        },
+        "required": [
+          "top",
+          "left",
+          "cardType"
+        ]
+      },
+      "required": [
+        "0"
+      ]
+    },
+    "_links": {
+      "id": "http://jsonschema.net/_links#",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "self": {
+          "id": "http://jsonschema.net/_links/self#",
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "href": {
+              "id": "http://jsonschema.net/_links/self/href#",
+              "type": "string",
+              "default": "/publications/com.fastestcompany/layouts/standard;version=1405707625",
+              "additionalProperties": false
+            }
+          },
+          "required": [
+            "href"
+          ]
+        },
+        "latestVersion": {
+          "id": "http://jsonschema.net/_links/latestVersion#",
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "href": {
+              "id": "http://jsonschema.net/_links/latestVersion/href#",
+              "type": "string",
+              "default": "/publications/com.fastestcompany/layouts/standard",
+              "additionalProperties": false
+            }
+          },
+          "required": [
+            "href"
+          ]
+        }
+      },
+      "required": [
+        "self",
+        "latestVersion"
+      ]
+    }
+  },
+  "required": [
+    "entityType",
+    "entityName",
+    "entityId",
+    "version",
+    "published",
+    "created",
+    "modified",
+    "layoutType",
+    "cellsPerLine",
+    "cellAspectRatio",
+    "cellSize",
+    "margin",
+    "gutter",
+    "islands",
+    "_links"
+  ]
+}

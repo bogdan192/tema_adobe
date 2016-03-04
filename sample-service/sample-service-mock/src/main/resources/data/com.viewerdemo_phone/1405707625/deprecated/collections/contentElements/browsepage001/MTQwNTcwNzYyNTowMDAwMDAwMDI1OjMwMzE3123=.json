@@ -1,0 +1,303 @@
+{
+    "version": 1405707625,
+    "totalNumberOfItems": 200,
+    "totalNumberOfPages": 4,
+    "_links": {
+        "self": {
+            "href": "/publications/com.viewerdemo_phone/collections/browsepage001;version=1405707625/elements"
+        },
+        "latestVersion": {
+            "href": "/publications/com.viewerdemo_phone/collections/browsepage001/elements"
+        },
+        "prev": {
+            "href": "/publications/com.viewerdemo_phone/collections/browsepage001;version=1405707625/elements?before=MTQwNTcwNzYyNTowMDAwMDAwMDI1OjMwMzE3N12="
+        },
+        "next": {
+            "href": "/publications/com.viewerdemo_phone/collections/browsepage001;version=1405707625/elements?after=MTQwNTcwNzYyNTowMDAwMDAwMDUxOjMwMzE5N56="
+        },
+        "elements": [
+            {
+                "href": "/publications/com.viewerdemo/articles/06_crit_lahr_110117;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/05_fiction_hwang_101101;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/03_1906ST_kia_fail;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/02_1906ST_essay;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/01_1906CV_cover;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/04_dept_anderson_110117;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/06_crit_lahr_110117;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/05_fiction_hwang_101101;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/03_1906ST_kia_fail;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/02_1906ST_essay;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/01_1906CV_cover;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/04_dept_anderson_110117;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/06_crit_lahr_110117;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/05_fiction_hwang_101101;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/03_1906ST_kia_fail;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/02_1906ST_essay;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/01_1906CV_cover;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/04_dept_anderson_110117;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/06_crit_lahr_110117;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/05_fiction_hwang_101101;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/03_1906ST_kia_fail;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/02_1906ST_essay;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/01_1906CV_cover;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/04_dept_anderson_110117;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/06_crit_lahr_110117;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/05_fiction_hwang_101101;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/03_1906ST_kia_fail;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/02_1906ST_essay;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/01_1906CV_cover;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/04_dept_anderson_110117;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/06_crit_lahr_110117;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/05_fiction_hwang_101101;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/03_1906ST_kia_fail;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/02_1906ST_essay;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/01_1906CV_cover;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/04_dept_anderson_110117;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/06_crit_lahr_110117;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/05_fiction_hwang_101101;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/03_1906ST_kia_fail;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/02_1906ST_essay;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/01_1906CV_cover;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/04_dept_anderson_110117;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/06_crit_lahr_110117;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/05_fiction_hwang_101101;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/03_1906ST_kia_fail;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/02_1906ST_essay;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            },
+            {
+                "href": "/publications/com.viewerdemo/articles/01_1906CV_cover;version=1405707625",
+                "type": "application/vnd.adobe.article.v1.0+json",
+                "entityType": "article",
+                "version": 1405707625
+            }
+        ]
+    }
+}

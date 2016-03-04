@@ -1,0 +1,154 @@
+{
+    "version": 1405707625,
+    "totalNumberOfItems": 6,
+    "_links": {
+        "self": {
+            "href": "/publications/com.viewerdemo_web/views/htmlaccessible;version=1405707625/elements"
+        },
+        "latestVersion": {
+            "href": "/publications/com.viewerdemo_web/views/htmlaccessible/elements"
+        }
+    },
+    "_embedded": {
+        "elements": [
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_web/articles/HTML_Accessible_1;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/HTML_Accessible_1;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_web:article:HTML_Accessible_1",
+                "version": 1405707625,
+                "title": "html_accessible_1",
+                "description": "html_accessible_1 description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "tower",
+                "author": "html_accessible_1 Author",
+                "authorUrl" : "http://adobe.com"             
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_web/articles/HTML_Accessible_2;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/HTML_Accessible_2;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_web:article:HTML_Accessible_2",
+                "version": 1405707625,
+                "title": "html_accessible_2",
+                "description": "html_accessible_2 description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "hero",
+				"author": "html_accessible_2 Author",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_web/articles/HTML_Accessible_1_P;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/HTML_Accessible_1_P;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_web:article:HTML_Accessible_1_P",
+                "version": 1405707625,
+                "title": "html_accessible_1_p",
+                "description": "html_accessible_1_p description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "html_accessible_1_p Author",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_web/articles/HTML_Accessible_2;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/HTML_Accessible_2;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_web:article:HTML_Accessible_2",
+                "version": 1405707625,
+                "title": "html_accessible_2",
+                "description": "html_accessible_2 description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "author": "html_accessible_2 Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_web/articles/HTML_Accessible_2_L;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/HTML_Accessible_2_L;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_web:article:HTML_Accessible_2_L",
+                "version": 1405707625,
+                "title": "html_accessible_2_l",
+                "description": "html_accessible_2_l description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "html_accessible_2_l Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_web/articles/HTML_Accessible_2_P;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/HTML_Accessible_2_P;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_web:article:HTML_Accessible_2_P",
+                "version": 1405707625,
+                "title": "html_accessible_2_p",
+                "description": "html_accessible_2_p description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "html_accessible_2_p Author",
+                "authorUrl" : "http://adobe.com"  
+            } 
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+	"entityType": "collection",
+    "entityName": "Inspire",
+    "entityId": "urn:publication:com.viewerdemo_web:collection:inspire",
+    "version": 1405707625,
+    "published": "2014-04-30T04:00:00Z",
+    "created": "2014-04-30T03:56:00Z",
+    "modified": "2014-04-30T03:59:00Z",
+    "title": "Inspire Collection",
+    "description": "Inspire Collection",
+    "keywords": [
+        "art",
+        "style",
+        "feed"
+    ],
+    "analyticsId": "EAN233123",
+    "productIds": [
+        "com.viewerdemo_web.product.ABC0000BG12I",
+        "com.viewerdemo_web.product.ABC0000BG12I"
+    ],
+    "analyticsId": "342",
+    "department" : "design",
+    "author": "Inspire Collection",
+    "authorUrl": "www.inspire.com/author",
+	"isSpecialContent" : true,
+    "isAd": false,
+	"adType" : "static",
+	"adCategory" : "technology",
+	"advertiser" : "advertiser name",
+	"importance": "high",
+    "isIssue" : false,
+    "navigation" : "first",
+    "maxSize" : 200,
+    "lateralSwipe" : false,
+    "_links": {
+        "self": {
+            "href": "/publications/com.viewerdemo_web/collections/inspire;version=1405707625"
+        },
+        "latestVersion": {
+            "href": "/publications/com.viewerdemo_web/collections/inspire"
+        },
+        "elements" : {
+        	"href": "/publications/com.viewerdemo_web/collections/inspire;version=1405707625/elements",
+            "type": "application/json",
+            "version": 1405707625
+		}
+    }
+}

@@ -1,0 +1,471 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "http://jsonschema.net#",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "entityType": {
+      "id": "http://jsonschema.net/entityType#",
+      "type": "string",
+      "default": "view",
+      "additionalProperties": false
+    },
+    "entityName": {
+      "id": "http://jsonschema.net/entityName#",
+      "type": "string",
+      "default": "themagazine",
+      "additionalProperties": false
+    },
+    "entityId": {
+      "id": "http://jsonschema.net/entityId#",
+      "type": "string",
+      "default": "urn:publication:com.fastestcompany:view:themagazine",
+      "additionalProperties": false
+    },
+    "version": {
+      "id": "http://jsonschema.net/version#",
+      "type": "integer",
+      "default": 1405707625,
+      "additionalProperties": false
+    },
+    "url": {
+      "id": "http://jsonschema.net/url#",
+      "type": "string",
+      "default": "http://fastestcompany.com",
+      "additionalProperties": false
+    },
+    "published": {
+      "id": "http://jsonschema.net/published#",
+      "type": "string",
+      "default": "2014-04-30T04:00:00Z",
+      "additionalProperties": false
+    },
+    "created": {
+      "id": "http://jsonschema.net/created#",
+      "type": "string",
+      "default": "2014-04-30T03:56:00Z",
+      "additionalProperties": false
+    },
+    "modified": {
+      "id": "http://jsonschema.net/modified#",
+      "type": "string",
+      "default": "2014-04-30T03:59:00Z",
+      "additionalProperties": false
+    },
+    "title": {
+      "id": "http://jsonschema.net/title#",
+      "type": "string",
+      "default": "the magazine",
+      "additionalProperties": false
+    },
+    "description": {
+      "id": "http://jsonschema.net/description#",
+      "type": "string",
+      "default": "the issue",
+      "additionalProperties": false
+    },
+    "keywords": {
+      "id": "http://jsonschema.net/keywords#",
+      "type": "array",
+      "additionalProperties": false,
+      "items": [
+        {
+          "id": "http://jsonschema.net/keywords/0#",
+          "type": "string",
+          "default": "art",
+          "additionalProperties": false
+        },
+        {
+          "id": "http://jsonschema.net/keywords/1#",
+          "type": "string",
+          "default": "style",
+          "additionalProperties": false
+        }
+      ],
+      "required": [
+        "0",
+        "1"
+      ]
+    },
+    "productIds": {
+      "id": "http://jsonschema.net/productIds#",
+      "type": "array",
+      "additionalProperties": false,
+      "items": [
+        {
+          "id": "http://jsonschema.net/productIds/0#",
+          "type": "string",
+          "default": "com.fastestcompany.product.1",
+          "additionalProperties": false
+        },
+        {
+          "id": "http://jsonschema.net/productIds/1#",
+          "type": "string",
+          "default": "com.fastestcompany.product.2",
+          "additionalProperties": false
+        }
+      ],
+      "required": [
+        "0",
+        "1"
+      ]
+    },
+    "department": {
+      "id": "http://jsonschema.net/department#",
+      "type": "string",
+      "default": "Design",
+      "additionalProperties": false
+    },
+    "author": {
+      "id": "http://jsonschema.net/author#",
+      "type": "string",
+      "default": "By Pat Walters, Photograph and video by Marco Grob",
+      "additionalProperties": false
+    },
+    "authorUrl": {
+      "id": "http://jsonschema.net/authorUrl#",
+      "type": "string",
+      "default": "By Pat Walters, Photograph and video by Marco Grob",
+      "additionalProperties": false
+    },
+    "isAd": {
+      "id": "http://jsonschema.net/isAd#",
+      "type": "boolean",
+      "default": false,
+      "additionalProperties": false
+    },
+    "articleAdId": {
+      "id": "http://jsonschema.net/articleAdId#",
+      "type": "string",
+      "default": "123",
+      "additionalProperties": false
+    },
+    "adType": {
+      "id": "http://jsonschema.net/adType#",
+      "type": "string",
+      "default": "static",
+      "additionalProperties": false
+    },
+    "adCategory": {
+      "id": "http://jsonschema.net/adCategory#",
+      "type": "string",
+      "default": "technology",
+      "additionalProperties": false
+    },
+    "advertiser": {
+      "id": "http://jsonschema.net/advertiser#",
+      "type": "string",
+      "default": "Advertiser Name",
+      "additionalProperties": false
+    },
+    "importance": {
+      "id": "http://jsonschema.net/importance#",
+      "type": "string",
+      "default": "high",
+      "additionalProperties": false
+    },
+    "socialShareUrl": {
+      "id": "http://jsonschema.net/socialShareUrl#",
+      "type": "string",
+      "default": "https://twitter.com/Adobe",
+      "additionalProperties": false
+    },
+    "isIssue": {
+      "id": "http://jsonschema.net/isIssue#",
+      "type": "boolean",
+      "default": true,
+      "additionalProperties": false
+    },
+    "openTo": {
+      "id": "http://jsonschema.net/openTo#",
+      "type": "string",
+      "default": "contentBeginning",
+      "additionalProperties": false
+    },
+    "maxSize": {
+      "id": "http://jsonschema.net/maxSize#",
+      "type": "integer",
+      "default": "200",
+      "additionalProperties": false
+    },
+    "lateralSwipe": {
+      "id": "http://jsonschema.net/lateralSwipe#",
+      "type": "boolean",
+      "default": true,
+      "additionalProperties": false
+    },
+    "_links": {
+      "id": "http://jsonschema.net/_links#",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "self": {
+          "id": "http://jsonschema.net/_links/self#",
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "href": {
+              "id": "http://jsonschema.net/_links/self/href#",
+              "type": "string",
+              "default": "/publications/com.fastestcompany/views/themagazine;version=1405707625",
+              "additionalProperties": false
+            }
+          },
+          "required": [
+            "href"
+          ]
+        },
+        "latestVersion": {
+          "id": "http://jsonschema.net/_links/latestVersion#",
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "href": {
+              "id": "http://jsonschema.net/_links/latestVersion/href#",
+              "type": "string",
+              "default": "/publications/com.fastestcompany/views/themagazine",
+              "additionalProperties": false
+            }
+          },
+          "required": [
+            "href"
+          ]
+        },
+        "layout": {
+          "id": "http://jsonschema.net/_links/layout#",
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "href": {
+              "id": "http://jsonschema.net/_links/layout/href#",
+              "type": "string",
+              "default": "/publications/com.fastestcompany/layouts/standard;version=1405707625",
+              "additionalProperties": false
+            },
+            "entityId": {
+              "id": "http://jsonschema.net/_links/layout/entityId#",
+              "type": "string",
+              "default": "urn:publication:com.fastestcompany:layout:standard",
+              "additionalProperties": false
+            },
+            "type": {
+              "id": "http://jsonschema.net/_links/layout/type#",
+              "type": "string",
+              "default": "application/vnd.adobe.layout.v1.0+json",
+              "additionalProperties": false
+            },
+            "entityType": {
+              "id": "http://jsonschema.net/_links/layout/entityType#",
+              "type": "string",
+              "default": "layout",
+              "additionalProperties": false
+            },
+            "version": {
+              "id": "http://jsonschema.net/_links/layout/version#",
+              "type": "integer",
+              "default": 1405707625,
+              "additionalProperties": false
+            }
+          },
+          "required": [
+            "href",
+            "entityId",
+            "type",
+            "entityType",
+            "version"
+          ]
+        },
+        "elements": {
+          "id": "http://jsonschema.net/_links/elements#",
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "href": {
+              "id": "http://jsonschema.net/_links/elements/href#",
+              "type": "string",
+              "default": "/publications/com.fastestcompany/views/themagazine;version=1405707625/elements",
+              "additionalProperties": false
+            },
+            "type": {
+              "id": "http://jsonschema.net/_links/elements/type#",
+              "type": "string",
+              "default": "application/json",
+              "additionalProperties": false
+            },
+            "version": {
+              "id": "http://jsonschema.net/_links/elements/version#",
+              "type": "integer",
+              "default": 1405707625,
+              "additionalProperties": false
+            }
+          },
+          "required": [
+            "href",
+            "type",
+            "version"
+          ]
+        },
+        "thumbnail": {
+          "id": "http://jsonschema.net/_links/thumbnail#",
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "href": {
+              "id": "http://jsonschema.net/_links/thumbnail/href#",
+              "type": "string",
+              "default": "/publications/com.viewer_shared_content/views/overlays2;version=1405707625/contents/poster/poster_thumbnail.jpg",
+              "additionalProperties": false
+            },
+            "type": {
+              "id": "http://jsonschema.net/_links/thumbnail/type#",
+              "type": "string",
+              "default": "image/jpeg",
+              "additionalProperties": false
+            },
+            "width": {
+              "id": "http://jsonschema.net/_links/thumbnail/width#",
+              "type": "integer",
+              "default": 100,
+              "additionalProperties": false
+            },
+            "height": {
+              "id": "http://jsonschema.net/_links/thumbnail/height#",
+              "type": "integer",
+              "default": 100,
+              "additionalProperties": false
+            }
+          },
+          "required": [
+            "href",
+            "type",
+            "width",
+            "height"
+          ]
+        },
+        "background": {
+          "id": "http://jsonschema.net/_links/background#",
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "href": {
+              "id": "http://jsonschema.net/_links/background/href#",
+              "type": "string",
+              "default": "/publications/com.viewer_shared_content/views/overlays2;version=1405707625/contents/poster/poster_background.jpg",
+              "additionalProperties": false
+            },
+            "type": {
+              "id": "http://jsonschema.net/_links/thumbnail/type#",
+              "type": "string",
+              "default": "image/jpeg",
+              "additionalProperties": false
+            },
+            "width": {
+              "id": "http://jsonschema.net/_links/thumbnail/width#",
+              "type": "integer",
+              "default": 100,
+              "additionalProperties": false
+            },
+            "height": {
+              "id": "http://jsonschema.net/_links/thumbnail/height#",
+              "type": "integer",
+              "default": 100,
+              "additionalProperties": false
+            }
+          },
+          "required": [
+            "href",
+            "type",
+            "width",
+            "height"
+          ]
+        },
+        "content": {
+          "id": "http://jsonschema.net/_links/content#",
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "href": {
+              "id": "http://jsonschema.net/_links/content/href#",
+              "type": "string",
+              "default": "/publications/com.viewer_shared_content/views/overlays2;version=1405707625/contents",
+              "additionalProperties": false
+            }
+          },
+          "required": [
+            "href"
+          ]
+        },
+        "socialShare": {
+          "id": "http://jsonschema.net/_links/socialShare#",
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "href": {
+              "id": "http://jsonschema.net/_links/socialShare/href#",
+              "type": "string",
+              "default": "/publications/com.viewer_shared_content/views/overlays2;version=1405707625/contents/poster/overlays21_square.jpg",
+              "additionalProperties": false
+            },
+            "type": {
+              "id": "http://jsonschema.net/_links/socialShare/type#",
+              "type": "string",
+              "default": "application/json",
+              "additionalProperties": false
+            },
+            "version": {
+              "id": "http://jsonschema.net/_links/socialShare/version#",
+              "type": "integer",
+              "default": 1405707625,
+              "additionalProperties": false
+            }
+          },
+          "required": [
+            "href",
+            "type",
+            "version"
+          ]
+        }
+      },
+      "required": [
+        "self",
+        "latestVersion",
+        "collection",
+        "layout",
+        "elements",
+        "thumbnail",
+        "background",
+        "content",
+        "socialShare"
+      ]
+    }
+  },
+  "required": [
+    "entityType",
+    "entityName",
+    "entityId",
+    "version",
+    "url",
+    "published",
+    "created",
+    "modified",
+    "title",
+    "description",
+    "keywords",
+    "productIds",
+    "department",
+    "author",
+    "authorUrl",
+    "isAd",
+    "articleAdId",
+    "adType",
+    "adCategory",
+    "advertiser",
+    "importance",
+    "socialShareUrl",
+	"isIssue",
+	"openTo",
+	"maxSize",
+ 	"lateralSwipe",
+    "_links"
+  ]
+}

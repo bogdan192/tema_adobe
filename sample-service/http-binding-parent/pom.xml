@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ~ ADOBE CONFIDENTIAL
+  ~   ___________________
+  ~
+  ~    Copyright 2014 Adobe Systems Incorporated
+  ~    All Rights Reserved.
+  ~
+  ~   NOTICE:  All information contained herein is, and remains
+  ~   the property of Adobe Systems Incorporated and its suppliers,
+  ~   if any.  The intellectual and technical concepts contained
+  ~   herein are proprietary to Adobe Systems Incorporated and its
+  ~   suppliers and are protected by trade secret or copyright law.
+  ~   Dissemination of this information or reproduction of this material
+  ~   is strictly forbidden unless prior written permission is obtained
+  ~   from Adobe Systems Incorporated.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.adobe.dps.samples</groupId>
+        <artifactId>component-parent</artifactId>
+        <version>0.1.0-SNAPSHOT</version>
+        <relativePath>../component-parent</relativePath>
+    </parent>
+
+    <artifactId>http-binding-parent</artifactId>
+    <packaging>pom</packaging>
+
+    <dependencies>
+        <!-- Spring -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+        </dependency>
+
+        <!--Jersey-->
+        <dependency>
+            <groupId>org.glassfish.jersey.ext</groupId>
+            <artifactId>jersey-spring3</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.glassfish.jersey.core</groupId>
+            <artifactId>jersey-common</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.glassfish.jersey.media</groupId>
+            <artifactId>jersey-media-json-jackson</artifactId>
+            <exclusions>
+                <exclusion>
+                    <artifactId>org.glassfish.jersey.core</artifactId>
+                    <groupId>jersey-common</groupId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+
+        <!-- JAX-RS -->
+        <dependency>
+            <groupId>javax.ws.rs</groupId>
+            <artifactId>javax.ws.rs-api</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>javax.servlet-api</artifactId>
+            <scope>provided</scope>
+        </dependency>
+
+        <!-- API docs -->
+        <dependency>
+            <groupId>com.wordnik</groupId>
+            <artifactId>swagger-jersey2-jaxrs_2.10</artifactId>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>${surefire.version}</version>
+                <configuration>
+                    <skipTests>${skipTests}</skipTests>
+                    <properties>
+                        <landscape>dev</landscape>
+                    </properties>
+                </configuration>
+            </plugin>
+        </plugins>
+        <pluginManagement>
+            <plugins>
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-war-plugin</artifactId>
+                    <version>2.4</version>
+                    <configuration>
+                        <archive>
+                            <manifestEntries>
+                                <Service-Build-Time>${maven.build.timestamp}</Service-Build-Time>
+                                <Service-Version>${project.version}</Service-Version>
+                            </manifestEntries>
+                        </archive>
+                    </configuration>
+                </plugin>
+            </plugins>
+        </pluginManagement>
+    </build>
+</project>

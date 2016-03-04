@@ -1,0 +1,68 @@
+{
+    "entityType": "article",
+    "entityName": "05_fiction_hwang_101101",
+    "entityId": "urn:publication:com.viewerdemo_win_tablet:article:05_fiction_hwang_101101",
+    "version": 1405707625,
+    "url": "www.adobe.com",
+    "published": "2014-04-30T04:00:00Z",
+    "created": "2014-04-30T03:56:00Z",
+    "modified": "2014-04-30T03:59:00Z",
+    "title": "05_fiction_hwang_101101",
+    "description": "05_fiction_hwang_101101 description",
+    "keywords": [
+        "economy",
+        "finance"
+    ],
+    "department": "Design",
+    "author": "By Pat Walters, Photograph and video by Marco Grob",
+    "authorUrl": "www.somebyline.com",
+    "isSpecialContent": false,
+    "isTrustedContent": false,
+    "isAd": false,
+    "adType": "static",
+    "adCategory": "technology",
+    "advertiser": "Advertiser Name",
+    "importance": "high",
+    "socialShareUrl": "http://share.dps.adobe.com/publications/com.viewerdemo_win_tablet/articles/05_fiction_hwang_101101",
+    "language": "eng",
+    "accessState": "free",
+    "includeInHome": true,
+    "hideFromBrowsePage": false,
+    "_links": {
+        "self": {
+            "href": "/publications/com.viewerdemo_win_tablet/articles/05_fiction_hwang_101101;version=1405707625"
+        },
+        "latestVersion": {
+            "href": "/publications/com.viewerdemo_win_tablet/articles/05_fiction_hwang_101101"
+        },
+        "relatedContent": [
+            {
+                "href": "http://search.dps.adobe.com/publications/com.viewerdemo_win_tablet/articles;version=1405707625?related=864938",
+                "type": "application/json",
+                "version": 1405707625
+            }
+        ],
+        "content": {
+            "href": "/publications/com.viewer_shared_content/articles/05_fiction_hwang_101101;version=1405707625/contents",
+            "type": "application/json",
+            "version": 1405707625
+        },
+        "articleFolio": {
+            "href": "/publications/com.viewer_shared_content/articles/05_fiction_hwang_101101;version=1405707625/contents/folio/manifest.xml",
+            "type": "application/xml",
+            "version": 1405707625
+        },
+        "thumbnail": {
+            "href": "/publications/com.viewer_shared_content/articles/05_fiction_hwang_101101;version=1405707625/contents/poster/inspire1_square.jpg",
+            "type": "image/jpeg",
+            "width": 100,
+            "height": 100
+        },
+        "socialShare": {
+            "href": "/publications/com.viewer_shared_content/articles/05_fiction_hwang_101101;version=1405707625/contents/poster/social.jpg",
+            "type": "image/jpeg",
+            "width": 72,
+            "height": 72
+        }
+    }
+}

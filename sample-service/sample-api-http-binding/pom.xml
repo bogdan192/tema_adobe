@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ~ ADOBE CONFIDENTIAL
+  ~   ___________________
+  ~
+  ~    Copyright 2014 Adobe Systems Incorporated
+  ~    All Rights Reserved.
+  ~
+  ~   NOTICE:  All information contained herein is, and remains
+  ~   the property of Adobe Systems Incorporated and its suppliers,
+  ~   if any.  The intellectual and technical concepts contained
+  ~   herein are proprietary to Adobe Systems Incorporated and its
+  ~   suppliers and are protected by trade secret or copyright law.
+  ~   Dissemination of this information or reproduction of this material
+  ~   is strictly forbidden unless prior written permission is obtained
+  ~   from Adobe Systems Incorporated.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.adobe.dps.samples</groupId>
+        <artifactId>http-binding-parent</artifactId>
+        <version>0.1.0-SNAPSHOT</version>
+        <relativePath>../http-binding-parent</relativePath>
+    </parent>
+    <artifactId>sample-api-http-binding</artifactId>
+    <packaging>war</packaging>
+
+    <dependencies>
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>sample-service-mock</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+
+        <!-- Declarative hyperlinking -->
+        <dependency>
+            <groupId>org.glassfish.jersey.ext</groupId>
+            <artifactId>jersey-declarative-linking</artifactId>
+            <exclusions>
+                <exclusion>
+                    <groupId>org.glassfish.jersey.core</groupId>
+                    <artifactId>jersey-server</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+        <dependency>
+            <groupId>org.modelmapper</groupId>
+            <artifactId>modelmapper</artifactId>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-war-plugin</artifactId>
+                <configuration>
+                    <archive>
+                        <manifestEntries>
+                            <Service-Build-Time>${maven.build.timestamp}</Service-Build-Time>
+                            <Service-Version>${project.version}</Service-Version>
+                        </manifestEntries>
+                    </archive>
+                    <attachClasses>true</attachClasses>
+                    <warName>ROOT</warName>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>

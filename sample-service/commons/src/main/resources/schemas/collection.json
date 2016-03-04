@@ -1,0 +1,301 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "http://jsonschema.net#",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "entityType": {
+      "id": "http://jsonschema.net/entityType#",
+      "type": "string",
+      "default": "collection",
+      "additionalProperties": false
+    },
+    "entityName": {
+      "id": "http://jsonschema.net/entityName#",
+      "type": "string",
+      "default": "july/august 2014",
+      "additionalProperties": false
+    },
+    "entityId": {
+      "id": "http://jsonschema.net/entityId#",
+      "type": "string",
+      "default": "urn:publication:com.fastestcompany:collection:julyaugust2014",
+      "additionalProperties": false
+    },
+    "version": {
+      "id": "http://jsonschema.net/version#",
+      "type": "integer",
+      "default": 1405707625,
+      "additionalProperties": false
+    },
+    "published": {
+      "id": "http://jsonschema.net/published#",
+      "type": "string",
+      "default": "2014-04-30T04:00:00Z",
+      "additionalProperties": false
+    },
+    "created": {
+      "id": "http://jsonschema.net/created#",
+      "type": "string",
+      "default": "2014-04-30T03:56:00Z",
+      "additionalProperties": false
+    },
+    "modified": {
+      "id": "http://jsonschema.net/modified#",
+      "type": "string",
+      "default": "2014-04-30T03:59:00Z",
+      "additionalProperties": false
+    },
+    "title": {
+      "id": "http://jsonschema.net/title#",
+      "type": "string",
+      "default": "july/august 2014",
+      "additionalProperties": false
+    },
+    "description": {
+      "id": "http://jsonschema.net/description#",
+      "type": "string",
+      "default": "design + art",
+      "additionalProperties": false
+    },
+    "keywords": {
+      "id": "http://jsonschema.net/keywords#",
+      "type": "array",
+      "additionalProperties": false,
+      "items": [
+        {
+          "id": "http://jsonschema.net/keywords/0#",
+          "type": "string",
+          "default": "art",
+          "additionalProperties": false
+        },
+        {
+          "id": "http://jsonschema.net/keywords/1#",
+          "type": "string",
+          "default": "style",
+          "additionalProperties": false
+        },
+        {
+          "id": "http://jsonschema.net/keywords/2#",
+          "type": "string",
+          "default": "feed",
+          "additionalProperties": false
+        }
+      ],
+      "required": [
+        "0",
+        "1",
+        "2"
+      ]
+    },
+    "analyticsId": {
+      "id": "http://jsonschema.net/analyticsId#",
+      "type": "string",
+      "default": "342",
+      "additionalProperties": false
+    },
+    "productIds": {
+      "id": "http://jsonschema.net/productIds#",
+      "type": "array",
+      "additionalProperties": false,
+      "items": [
+        {
+          "id": "http://jsonschema.net/productIds/0#",
+          "type": "string",
+          "default": "com.fastestcompany.product.ABC0000BG12I",
+          "additionalProperties": false
+        },
+        {
+          "id": "http://jsonschema.net/productIds/1#",
+          "type": "string",
+          "default": "com.fastestcompany.product.ABC0000BG12I",
+          "additionalProperties": false
+        }
+      ],
+      "required": [
+        "0",
+        "1"
+      ]
+    },
+    "department": {
+      "id": "http://jsonschema.net/department#",
+      "type": "string",
+      "default": "Design",
+      "additionalProperties": false
+    },
+    "byline": {
+      "id": "http://jsonschema.net/byline#",
+      "type": "string",
+      "default": "By Fred Walters, Photograph and video by Marco Grob",
+      "additionalProperties": false
+    },
+    "bylineUrl": {
+      "id": "http://jsonschema.net/bylineUrl#",
+      "type": "string",
+      "default": "By Fred Walters, Photograph and video by Marco Grob",
+      "additionalProperties": false
+    },
+    "isSpecialContent": {
+      "id": "http://jsonschema.net/isSpecialContent#",
+      "type": "boolean",
+      "default": true,
+      "additionalProperties": false
+    },
+    "isAd": {
+      "id": "http://jsonschema.net/isAd#",
+      "type": "boolean",
+      "default": false,
+      "additionalProperties": false
+    },
+    "adType": {
+      "id": "http://jsonschema.net/adType#",
+      "type": "string",
+      "default": "static",
+      "additionalProperties": false
+    },
+    "adCategory": {
+      "id": "http://jsonschema.net/adCategory#",
+      "type": "string",
+      "default": "technology",
+      "additionalProperties": false
+    },
+    "advertiser": {
+      "id": "http://jsonschema.net/advertiser#",
+      "type": "string",
+      "default": "Advertiser Name",
+      "additionalProperties": false
+    },
+    "importance": {
+      "id": "http://jsonschema.net/importance#",
+      "type": "string",
+      "default": "high",
+      "additionalProperties": false
+    },
+    "isIssue": {
+      "id": "http://jsonschema.net/isIssue#",
+      "type": "boolean",
+      "default": false,
+      "additionalProperties": false
+    },
+    "navigation": {
+      "id": "http://jsonschema.net/navigation#",
+      "type": "string",
+      "default": "first",
+      "additionalProperties": false
+    },
+    "maxSize": {
+      "id": "http://jsonschema.net/maxSize#",
+      "type": "integer",
+      "default": 200,
+      "additionalProperties": false
+    },
+    "lateralSwipe": {
+      "id": "http://jsonschema.net/lateralSwipe#",
+      "type": "boolean",
+      "default": false,
+      "additionalProperties": false
+    },
+    "_links": {
+      "id": "http://jsonschema.net/_links#",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "self": {
+          "id": "http://jsonschema.net/_links/self#",
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "href": {
+              "id": "http://jsonschema.net/_links/self/href#",
+              "type": "string",
+              "default": "/publications/com.fastestcompany/collections/julyaugust2014;version=1405707625",
+              "additionalProperties": false
+            }
+          },
+          "required": [
+            "href"
+          ]
+        },
+        "latestVersion": {
+          "id": "http://jsonschema.net/_links/latestVersion#",
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "href": {
+              "id": "http://jsonschema.net/_links/latestVersion/href#",
+              "type": "string",
+              "default": "/publications/com.fastestcompany/collections/julyaugust2014",
+              "additionalProperties": false
+            }
+          },
+          "required": [
+            "href"
+          ]
+        },
+        "elements": {
+          "id": "http://jsonschema.net/_links/elements#",
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "href": {
+              "id": "http://jsonschema.net/_links/elements/href#",
+              "type": "string",
+              "default": "/publications/com.fastestcompany/collections/julyaugust2014;version=1405707625/elements",
+              "additionalProperties": false
+            },
+            "type": {
+              "id": "http://jsonschema.net/_links/elements/type#",
+              "type": "string",
+              "default": "application/json",
+              "additionalProperties": false
+            },
+            "version": {
+              "id": "http://jsonschema.net/_links/elements/version#",
+              "type": "integer",
+              "default": 1405707625,
+              "additionalProperties": false
+            }
+          },
+          "required": [
+            "href",
+            "type",
+            "version"
+          ]
+        }
+      },
+      "required": [
+        "self",
+        "latestVersion",
+        "elements"
+      ]
+    }
+  },
+  "required": [
+    "entityType",
+    "entityName",
+    "entityId",
+    "version",
+    "published",
+    "created",
+    "modified",
+    "title",
+    "description",
+    "keywords",
+    "analyticsId",
+    "productIds",
+    "department",
+    "byline",
+    "bylineUrl",
+    "isSpecialContent",
+    "isAd",
+    "adType",
+    "adCategory",
+    "advertiser",
+    "importance",
+    "isIssue",
+    "navigation",
+    "maxSize",
+    "lateralSwipe",
+    "_links"
+  ]
+}

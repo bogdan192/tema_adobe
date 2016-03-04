@@ -1,0 +1,64 @@
+{
+    "entityType": "view",
+    "entityName": "inspire",
+    "entityId": "urn:publication:com.viewerdemo_win_tablet_r33_2:view:inspire",
+    "version": 1405707625,
+    "url": "http://adobe.com",
+    "published": "2014-04-30T04:00:00Z",
+    "created": "2014-04-30T03:56:00Z",
+    "modified": "2014-04-30T03:59:00Z",
+    "title": "viewer fixed folios 001",
+    "description": "Inspire Collection",
+    "keywords": [
+        "art",
+        "style"
+    ],
+    "analyticsId": "345",
+    "productIds": [
+        "com.viewerdemo_win_tablet_r33_2.product.11",
+        "com.viewerdemo_win_tablet_r33_2.product.12"
+    ],
+    "department" : "Design",
+    "byline": "by fred flinstone, photograph and video by marco grob",
+    "bylineurl": "www.somebyline.com",
+    "isAd": false,
+	"articleAdId" : "678",
+    "adType" : "static",
+	"adCategory" : "technology",
+	"advertiser" : "Advertiser Name",
+	"importance": "high",
+	"isSpecialContent" : true,
+    "_links": {
+        "self": {
+            "href": "/publications/com.viewerdemo_win_tablet_r33_2/views/inspire;version=1405707625"
+        },
+        "latestVersion": {
+            "href": "/publications/com.viewerdemo_win_tablet_r33_2/views/inspire"
+        },
+        "collection": {
+            "href": "/publications/com.viewerdemo_win_tablet_r33_2/collections/inspire",
+            "entityId": "urn:publication:com.viewerdemo_win_tablet_r33_2:collection:inspire",
+            "type": "application/vnd.adobe.collection.v1.0+json",
+            "entityType": "collection",
+            "version": 1405707625
+        },
+        "layout": {
+            "href": "/publications/com.viewerdemo_win_tablet_r33_2/layouts/win_tablet;version=1405707625",
+            "entityId": "urn:publication:com.viewerdemo_win_tablet_r33_2:layout:win_tablet",
+            "type": "application/vnd.adobe.layout.v1.0+json",
+            "entityType": "layout",
+            "version": 1405707625
+        },
+        "elements": {
+            "href": "/publications/com.viewerdemo_win_tablet_r33_2/views/inspire;version=1405707625/elements",
+            "type": "application/json",
+            "version": 1405707625
+        },
+        "thumbnail": {
+			"href": "/publications/com.viewerdemo_win_tablet_r33_2/views/inspire;version=1405707625/contents/poster/inspire4_square.jpg",
+			"type": "image/jpeg",
+			"width": 100,
+			"height": 100
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "entityType": "layout",
+    "entityName": "Web Viewer Layout",
+    "entityId": "urn:publication:com.viewerdemo_web_r33_2:layout:web",
+    "version": 1405707625,
+    "published": "2014-04-30T04:00:00Z",
+    "created": "2014-04-30T03:56:00Z",
+    "modified": "2014-04-30T03:59:00Z",
+    "layoutType": "layoutFormatVersion",
+    "cellsPerLine": 3,
+    "cellAspectRatio": 1.0,
+    "cellSize": "auto",
+    "margin": "10dip",
+    "gutter": "10dip",
+    "islands": [
+        {
+            "top": 0,
+            "left": 0,
+            "cardType": "hero"
+        }
+    ],
+    "_links": {
+        "self": {
+            "href": "/publications/com.viewerdemo_web_r33_2/layouts/web;version=1405707625"
+        },
+        "latestVersion": {
+            "href": "/publications/com.viewerdemo_web_r33_2/layouts/web"
+        }
+    }
+}

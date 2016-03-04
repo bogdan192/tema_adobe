@@ -1,0 +1,15 @@
+{
+    "type":"object",
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "id": "http://jsonschema.net#",
+    "properties":{
+        "id": {
+            "type":"string",
+            "id": "http://jsonschema.net/id#"
+        },
+        "version": {
+            "type":"integer",
+            "id": "http://jsonschema.net/version#"
+        }
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "version": 1405707625,
+    "totalNumberOfItems": 6,
+    "totalNumberOfPages": 1,
+    "_links": {
+        "self": {
+            "href": "/publications/com.viewerdemo_win_tablet_r33_2/views/fixedfolios001;version=1405707625/elements"
+        },
+        "latestVersion": {
+            "href": "/publications/com.viewerdemo_win_tablet_r33_2/views/fixedfolios001/elements"
+        }
+    },
+    "_embedded": {
+        "elements": [
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet_r33_2/articles/01_1906CV_cover;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewerdemo_win_tablet_r33_2/articles/01_1906CV_cover;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet_r33_2:article:01_1906CV_cover",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 1",
+                "description": "Canned Description 1",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "tower",
+                "byline": "Follow Richard Levick on Twitter and circle him on Google+, where he comments daily on the issues impacting corporate brands."
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet_r33_2/articles/02_1906ST_essay;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewerdemo_win_tablet_r33_2/articles/02_1906ST_essay;version=1405707625/contents/poster/inspire2_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet_r33_2:article:02_1906ST_essay",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 2",
+                "description": "Canned Description 2",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "hero",
+                "byline": "Follow Bruce Nussbaum on Twitter (BruceNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet_r33_2/articles/03_1906ST_kia_fail;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewerdemo_win_tablet_r33_2/articles/03_1906ST_kia_fail;version=1405707625/contents/poster/inspire3_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet_r33_2:article:03_1906ST_kia_fail",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 3",
+                "description": "Canned Description 3",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "byline": "Follow Joe Nussbaum on Twitter (JoeNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet_r33_2/articles/04_dept_anderson_110117;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewerdemo_win_tablet_r33_2/articles/04_dept_anderson_110117;version=1405707625/contents/poster/inspire4_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet_r33_2:article:04_dept_anderson_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 4",
+                "description": "Canned Description 4",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "byline": "Follow Fred Nussbaum on Twitter (FredNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet_r33_2/articles/05_fiction_hwang_101101;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewerdemo_win_tablet_r33_2/articles/05_fiction_hwang_101101;version=1405707625/contents/poster/inspire5_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet_r33_2:article:05_fiction_hwang_101101",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 5",
+                "description": "Canned Description 5",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Frank Nussbaum on Twitter (FrankNussbaum)"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet_r33_2/articles/06_crit_lahr_110117;version=1405707625"
+                    },
+                    "background": {
+                        "href": "/publications/com.viewerdemo_win_tablet_r33_2/articles/06_crit_lahr_110117;version=1405707625/contents/poster/inspire6_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet_r33_2:article:06_crit_lahr_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 6",
+                "description": "Canned Description 6",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "byline": "Follow Phil Nussbaum on Twitter (PhilNussbaum)"
+            } 
+        ]
+    }
+}

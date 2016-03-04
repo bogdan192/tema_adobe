@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ~   ADOBE CONFIDENTIAL
+  ~    ___________________
+  ~
+  ~   Copyright 2014 Adobe Systems Incorporated
+  ~   All Rights Reserved.
+  ~
+  ~    NOTICE:  All information contained herein is, and remains
+  ~    the property of Adobe Systems Incorporated and its suppliers,
+  ~    if any.  The intellectual and technical concepts contained
+  ~    herein are proprietary to Adobe Systems Incorporated and its
+  ~    suppliers and are protected by trade secret or copyright law.
+  ~    Dissemination of this information or reproduction of this material
+  ~    is strictly forbidden unless prior written permission is obtained
+  ~    from Adobe Systems Incorporated.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+            http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="publicationStatusProcessor" class="com.adobe.dps.sample.api.PublicationStatusProcessor"/>
+
+    <!-- Local file system storage -->
+    <bean id="localFileSystemStorage" class="com.adobe.dps.sample.storage.localfs.LocalFileSystemStorage"/>
+
+    <!-- Service -->
+    <bean id="localFileSystemEntityDeliveryService"
+          class="com.adobe.dps.sample.service.LocalFileSystemSampleService">
+        <constructor-arg ref="localFileSystemStorage"/>
+        <constructor-arg ref="publicationStatusProcessor"/>
+    </bean>
+
+</beans>

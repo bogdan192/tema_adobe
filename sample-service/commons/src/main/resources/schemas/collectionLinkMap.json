@@ -1,0 +1,22 @@
+{
+    "type": "object",
+    "javaType": "com.adobe.dps.sample.model.aggregated.CollectionLink",
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "id": "http://jsonschema.net#",
+    "properties" : {
+        "items": {
+            "$ref": "items.json"
+        },
+        "self": {
+            "$ref": "link.json"
+        },
+        "latestVersion": {
+            "$ref": "link.json"
+        }
+    }},
+    "required": [
+        "items",
+        "self",
+        "latestVersion"
+    ]
+}

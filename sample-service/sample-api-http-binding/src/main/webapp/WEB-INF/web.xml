@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ~ ADOBE CONFIDENTIAL
+  ~   ___________________
+  ~
+  ~    Copyright 2014 Adobe Systems Incorporated
+  ~    All Rights Reserved.
+  ~
+  ~   NOTICE:  All information contained herein is, and remains
+  ~   the property of Adobe Systems Incorporated and its suppliers,
+  ~   if any.  The intellectual and technical concepts contained
+  ~   herein are proprietary to Adobe Systems Incorporated and its
+  ~   suppliers and are protected by trade secret or copyright law.
+  ~   Dissemination of this information or reproduction of this material
+  ~   is strictly forbidden unless prior written permission is obtained
+  ~   from Adobe Systems Incorporated.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+         version="3.0">
+
+    <display-name>Entity Delivery Web Application</display-name>
+    <context-param>
+        <param-name>contextConfigLocation</param-name>
+        <param-value>/WEB-INF/sample-api-http-binding-context.xml</param-value>
+    </context-param>
+
+    <listener>
+        <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
+    </listener>
+
+    <servlet>
+        <servlet-name>webapp</servlet-name>
+        <servlet-class>org.glassfish.jersey.servlet.ServletContainer</servlet-class>
+        <init-param>
+            <param-name>jersey.config.server.provider.packages</param-name>
+            <param-value>
+                com.adobe.dps.sample.api.http.binding.controllers,
+                com.wordnik.swagger.jaxrs.json
+            </param-value>
+        </init-param>
+        <init-param>
+            <param-name>javax.ws.rs.Application</param-name>
+            <param-value>com.adobe.dps.sample.api.http.binding.app.SampleApplication</param-value>
+        </init-param>
+
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+    
+    <servlet-mapping>
+        <servlet-name>webapp</servlet-name>
+        <url-pattern>/publications/*</url-pattern>
+    </servlet-mapping>
+    
+    <filter>
+    	<filter-name>corsheaderfilter</filter-name>
+    	<filter-class>com.adobe.dps.sample.api.http.binding.filters.HeaderInjectionFilter</filter-class>
+    	<init-param>
+     		<param-name>header</param-name>
+     		<param-value>Access-Control-Allow-Origin</param-value>
+    	</init-param>
+    	<init-param>
+     		<param-name>value</param-name>
+     		<param-value>*</param-value>
+    	</init-param>
+	</filter>
+
+    <filter-mapping>
+    	<filter-name>corsheaderfilter</filter-name>
+    	<url-pattern>*.css</url-pattern>
+    	<url-pattern>*.js</url-pattern>
+    	<url-pattern>*.htm</url-pattern>
+    	<url-pattern>*.html</url-pattern>
+	</filter-mapping>
+    
+    <!-- This servlet is not meant to serve any actual content. Tt is here just because the Swagger Jersey JAX-RS
+integration needs it for proper initialization. -->
+    <servlet>
+        <servlet-name>Jersey2Config</servlet-name>
+        <servlet-class>com.wordnik.swagger.jersey.config.JerseyJaxrsConfig</servlet-class>
+        <init-param>
+            <param-name>api.version</param-name>
+            <param-value>v1.0</param-value>
+        </init-param>
+        <init-param>
+            <param-name>swagger.api.basepath</param-name>
+            <param-value>/</param-value>
+        </init-param>
+        <load-on-startup>2</load-on-startup>
+    </servlet>
+    <!-- This mapping is not supposed to match anything, it is here just to prevent XML validation errors -->
+    <servlet-mapping>
+        <servlet-name>Jersey2Config</servlet-name>
+        <url-pattern>/thisisnotsupposedtomapanything</url-pattern>
+    </servlet-mapping>
+
+</web-app>

@@ -1,0 +1,45 @@
+{
+    "type": "object",
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "javaType": "com.adobe.dps.sample.model.aggregated.EntityReference",
+    "id": "http://jsonschema.net#",
+    "properties": {
+        "version": {
+            "type": "integer",
+            "id": "http://jsonschema.net/version#"
+        },
+        "_links": {
+            "self": {
+                "$ref": "link.json"
+            },
+            "items": {
+                "type": "array",
+                "items": {
+                    "$ref": "link.json"
+                }
+            }
+        },
+        "_embedded": {
+            "self": {
+                "$ref": "link.json"
+            },
+            "items": {
+                "type": "array",
+                "items": {
+                    "$ref": "link.json"
+                }
+            }
+        },
+        "totalNumberOfItems": {
+            "type": "integer",
+            "id": "http://jsonschema.net/version#"
+        }
+    },
+    "required": [
+        "id",
+        "version",
+        "_links",
+        "_embedded",
+        "totalNumberOfItems"
+    ]
+}

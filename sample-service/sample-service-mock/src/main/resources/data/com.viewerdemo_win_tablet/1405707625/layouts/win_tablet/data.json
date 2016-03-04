@@ -1,0 +1,30 @@
+{
+    "entityType": "layout",
+    "entityName": "Windows Tablet R33 Layout",
+    "entityId": "urn:publication:com.viewerdemo_win_tablet:layout:win_tablet",
+    "version": 1405707625,
+    "published": "2014-04-30T04:00:00Z",
+    "created": "2014-04-30T03:56:00Z",
+    "modified": "2014-04-30T03:59:00Z",
+    "layoutType": "layoutFormatVersion",
+    "cellsPerLine": 3,
+    "cellAspectRatio": 1.0,
+    "cellSize": "auto",
+    "margin": "12px",
+    "gutter": "12px",
+    "islands": [
+        {
+            "top": 0,
+            "left": 0,
+            "cardType": "hero"
+        }
+    ],
+    "_links": {
+        "self": {
+            "href": "/publications/com.viewerdemo_win_tablet/layouts/win_tablet;version=1405707625"
+        },
+        "latestVersion": {
+            "href": "/publications/com.viewerdemo_win_tablet/layouts/win_tablet"
+        }
+    }
+}

@@ -1,0 +1,1169 @@
+{
+    "version": 1405707625,
+    "totalNumberOfItems": 200,
+    "_links": {
+        "self": {
+            "href": "/publications/com.viewerdemo_phone/views/largecollection;version=1405707625/elements"
+        },
+        "latestVersion": {
+            "href": "/publications/com.viewerdemo_phone/views/largecollection/elements"
+        },
+        "prev": {
+            "href": "/publications/com.viewerdemo_phone/views/largecollection;version=1405707625/elements?before=MTQwNTcwNzYyNTowMDAwMDAwMDI1OjMwMzE3123="
+        }
+    },
+    "_embedded": {
+        "elements": [
+           {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/01_1906CV_cover;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/01_1906CV_cover;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:01_1906CV_cover",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 1",
+                "description": "Canned Description 1",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "tower",
+                "author": "Ralph Stone",
+                "authorUrl" : "http://adobe.com"             
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/02_1906ST_essay;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/02_1906ST_essay;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:02_1906ST_essay",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 2",
+                "description": "Canned Description 2",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "hero",
+				"author": "Terry Stone",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/01_Folio_TOC;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/01_Folio_TOC;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:01_Folio_TOC",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 3",
+                "description": "Canned Description 3",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "Freddie Stone",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/04_dept_anderson_110117;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/04_dept_anderson_110117;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:04_dept_anderson_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 4",
+                "description": "Canned Description 4",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "author": "All In One - Web Contnet",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/02_Folio_Overview;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/02_Folio_Overview;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:02_Folio_Overview",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 5",
+                "description": "Canned Description 5",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "All In One - Web Contnet",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/03_Design;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/03_Design;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:03_Design",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 6",
+                "description": "Canned Description 6",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "George Stone",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/05_fiction_hwang_101101;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/05_fiction_hwang_101101;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:05_fiction_hwang_101101",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 7",
+                "description": "Canned Description 7",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Felix Stone",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/06_crit_lahr_110117;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/06_crit_lahr_110117;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:06_crit_lahr_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 8",
+                "description": "Canned Description 8",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Terry Stone",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/04_dept_anderson_110117;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/04_dept_anderson_110117;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:04_dept_anderson_110117",
+                "version": 1405707625,
+                "title": "04_dept_anderson_110117",
+                "description": "04 Dept Anderson",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Dept Anderson",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/05_fiction_hwang_101101;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/05_fiction_hwang_101101;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:05_fiction_hwang_101101",
+                "version": 1405707625,
+                "title": "Fiction Hwang",
+                "description": "05 Fiction Hwang",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Fiction Hwang",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/06_crit_lahr_110117;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/06_crit_lahr_110117;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:06_crit_lahr_110117",
+                "version": 1405707625,
+                "title": "Crit Lahr",
+                "description": "06 Crit Lahr",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Crit Lahr",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/02_1906ST_essay;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/02_1906ST_essay;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:02_1906ST_essay",
+                "version": 1405707625,
+                "title": "Essay",
+                "description": "02 Essay ",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Essay",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/03_1906ST_kia_fail;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/03_1906ST_kia_fail;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:03_1906ST_kia_fail",
+                "version": 1405707625,
+                "title": "Kia Fail",
+                "description": "03 Kia Fail",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Kia Fail",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/04_dept_anderson_110117;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/04_dept_anderson_110117;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:04_dept_anderson_110117",
+                "version": 1405707625,
+                "title": "04_dept_anderson_110117",
+                "description": "04 Dept Anderson",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Dept Anderson",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/00_Folio_Cover;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/00_Folio_Cover;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:00_Folio_Cover",
+                "version": 1405707625,
+                "title": "00_Folio_Cover",
+                "description": "00_Folio_Cover description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "tower",
+                "author": "00_Folio_Cover Author",
+                "authorUrl" : "http://adobe.com"             
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/01_Folio_TOC;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/01_Folio_TOC;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:01_Folio_TOC",
+                "version": 1405707625,
+                "title": "01_Folio_TOC",
+                "description": "01_Folio_TOC description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "hero",
+				"author": "01_Folio_TOC Author",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/02_Folio_Overview;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/02_Folio_Overview;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:02_Folio_Overview",
+                "version": 1405707625,
+                "title": "02_Folio_Overview",
+                "description": "02_Folio_Overview description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "02_Folio_Overview Author",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/03_Design;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/03_Design;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:03_Design",
+                "version": 1405707625,
+                "title": "03_Design",
+                "description": "03_Design description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "author": "03_Design Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/04_Folio_Create;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/04_Folio_Create;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:04_Folio_Create",
+                "version": 1405707625,
+                "title": "04_Folio_Create",
+                "description": "04_Folio_Create description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "04_Folio_Create Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/05_Folio_Preview;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/05_Folio_Preview;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:05_Folio_Preview",
+                "version": 1405707625,
+                "title": "05_Folio_Preview",
+                "description": "05_Folio_Preview description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "05_Folio_Preview Author",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/06_Folio_Producer;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/06_Folio_Producer;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:06_Folio_Producer",
+                "version": 1405707625,
+                "title": "06_Folio_Producer",
+                "description": "06_Folio_Producer description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "06_Folio_Producer Author",
+                "authorUrl" : "http://adobe.com"  
+            } ,
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/12_Gallery;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/12_Gallery;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:12_Gallery",
+                "version": 1405707625,
+                "title": "12_Gallery",
+                "description": "12_Gallery description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "12_Gallery Author",
+                "authorUrl" : "http://adobe.com"  
+            } ,
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/99_Credits;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/99_Credits;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:99_Credits",
+                "version": 1405707625,
+                "title": "99_Credits",
+                "description": "99_Credits description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "99_Credits Author",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/04_dept_anderson_110117;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/04_dept_anderson_110117;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:04_dept_anderson_110117",
+                "version": 1405707625,
+                "title": "04_dept_anderson_110117",
+                "description": "04 Dept Anderson",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Dept Anderson",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/05_fiction_hwang_101101;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/05_fiction_hwang_101101;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:05_fiction_hwang_101101",
+                "version": 1405707625,
+                "title": "Fiction Hwang",
+                "description": "05 Fiction Hwang",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Fiction Hwang",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/06_crit_lahr_110117;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/06_crit_lahr_110117;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:06_crit_lahr_110117",
+                "version": 1405707625,
+                "title": "Crit Lahr",
+                "description": "06 Crit Lahr",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Crit Lahr",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/02_1906ST_essay;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/02_1906ST_essay;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:02_1906ST_essay",
+                "version": 1405707625,
+                "title": "Essay",
+                "description": "02 Essay ",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Essay",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/03_1906ST_kia_fail;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/03_1906ST_kia_fail;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:03_1906ST_kia_fail",
+                "version": 1405707625,
+                "title": "Kia Fail",
+                "description": "03 Kia Fail",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Kia Fail",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/04_dept_anderson_110117;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/04_dept_anderson_110117;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:04_dept_anderson_110117",
+                "version": 1405707625,
+                "title": "04_dept_anderson_110117",
+                "description": "04 Dept Anderson",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Dept Anderson",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/05_fiction_hwang_101101;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/05_fiction_hwang_101101;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:05_fiction_hwang_101101",
+                "version": 1405707625,
+                "title": "Fiction Hwang",
+                "description": "05 Fiction Hwang",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Fiction Hwang",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/06_crit_lahr_110117;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/06_crit_lahr_110117;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:06_crit_lahr_110117",
+                "version": 1405707625,
+                "title": "Crit Lahr",
+                "description": "06 Crit Lahr",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Crit Lahr",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/02_1906ST_essay;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/02_1906ST_essay;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:02_1906ST_essay",
+                "version": 1405707625,
+                "title": "Essay",
+                "description": "02 Essay ",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Essay",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/03_1906ST_kia_fail;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/03_1906ST_kia_fail;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:03_1906ST_kia_fail",
+                "version": 1405707625,
+                "title": "Kia Fail",
+                "description": "03 Kia Fail",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Kia Fail",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/04_dept_anderson_110117;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/04_dept_anderson_110117;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:04_dept_anderson_110117",
+                "version": 1405707625,
+                "title": "04_dept_anderson_110117",
+                "description": "04 Dept Anderson",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Dept Anderson",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/05_fiction_hwang_101101;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/05_fiction_hwang_101101;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:05_fiction_hwang_101101",
+                "version": 1405707625,
+                "title": "Fiction Hwang",
+                "description": "05 Fiction Hwang",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Fiction Hwang",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/06_crit_lahr_110117;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/06_crit_lahr_110117;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:06_crit_lahr_110117",
+                "version": 1405707625,
+                "title": "Crit Lahr",
+                "description": "06 Crit Lahr",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Crit Lahr",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/02_1906ST_essay;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/02_1906ST_essay;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:02_1906ST_essay",
+                "version": 1405707625,
+                "title": "Essay",
+                "description": "02 Essay ",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Essay",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/03_1906ST_kia_fail;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/03_1906ST_kia_fail;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:03_1906ST_kia_fail",
+                "version": 1405707625,
+                "title": "Kia Fail",
+                "description": "03 Kia Fail",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Kia Fail",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/04_dept_anderson_110117;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/04_dept_anderson_110117;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:04_dept_anderson_110117",
+                "version": 1405707625,
+                "title": "04_dept_anderson_110117",
+                "description": "04 Dept Anderson",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Dept Anderson",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/05_fiction_hwang_101101;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/05_fiction_hwang_101101;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:05_fiction_hwang_101101",
+                "version": 1405707625,
+                "title": "Fiction Hwang",
+                "description": "05 Fiction Hwang",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Fiction Hwang",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/06_crit_lahr_110117;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/06_crit_lahr_110117;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:06_crit_lahr_110117",
+                "version": 1405707625,
+                "title": "Crit Lahr",
+                "description": "06 Crit Lahr",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Crit Lahr",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/03_1906ST_kia_fail;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/03_1906ST_kia_fail;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:03_1906ST_kia_fail",
+                "version": 1405707625,
+                "title": "Kia Fail",
+                "description": "03 Kia Fail",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Kia Fail",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/04_dept_anderson_110117;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/04_dept_anderson_110117;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:04_dept_anderson_110117",
+                "version": 1405707625,
+                "title": "04_dept_anderson_110117",
+                "description": "04 Dept Anderson",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Dept Anderson",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/05_fiction_hwang_101101;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/05_fiction_hwang_101101;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:05_fiction_hwang_101101",
+                "version": 1405707625,
+                "title": "Fiction Hwang",
+                "description": "05 Fiction Hwang",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Fiction Hwang",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/06_crit_lahr_110117;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/06_crit_lahr_110117;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:06_crit_lahr_110117",
+                "version": 1405707625,
+                "title": "Crit Lahr",
+                "description": "06 Crit Lahr",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Crit Lahr",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/06_crit_lahr_110117;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/06_crit_lahr_110117;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:06_crit_lahr_110117",
+                "version": 1405707625,
+                "title": "Crit Lahr",
+                "description": "06 Crit Lahr",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Crit Lahr",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/03_1906ST_kia_fail;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/03_1906ST_kia_fail;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:03_1906ST_kia_fail",
+                "version": 1405707625,
+                "title": "Kia Fail",
+                "description": "03 Kia Fail",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Kia Fail",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/04_dept_anderson_110117;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/04_dept_anderson_110117;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:04_dept_anderson_110117",
+                "version": 1405707625,
+                "title": "04_dept_anderson_110117",
+                "description": "04 Dept Anderson",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Dept Anderson",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/05_fiction_hwang_101101;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/05_fiction_hwang_101101;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:05_fiction_hwang_101101",
+                "version": 1405707625,
+                "title": "Fiction Hwang",
+                "description": "05 Fiction Hwang",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Fiction Hwang",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_phone/articles/06_crit_lahr_110117;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/06_crit_lahr_110117;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_phone:article:06_crit_lahr_110117",
+                "version": 1405707625,
+                "title": "Crit Lahr",
+                "description": "06 Crit Lahr",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Crit Lahr",
+                "authorUrl" : "http://adobe.com"
+            }
+        ]
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "object",
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "id": "http://jsonschema.net#",
+    "properties": {
+        "_links": {
+            "$ref": "collectionLinkMap.json"
+        },
+        "version": {
+            "type": "integer",
+            "id": "http://jsonschema.net/version#"
+        }
+    },
+    "required": [
+        "id",
+        "_links",
+        "version"
+    ]
+}

@@ -1,0 +1,200 @@
+{
+    "version": 1405707625,
+    "totalNumberOfItems": 8,
+    "_links": {
+        "self": {
+            "href": "/publications/com.viewerdemo_win_tablet/views/mixedsizes;version=1405707625/elements"
+        },
+        "latestVersion": {
+            "href": "/publications/com.viewerdemo_win_tablet/views/mixedsizes/elements"
+        }
+    },
+    "_embedded": {
+        "elements": [
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/01_1906CV_cover;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/01_1906CV_cover;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:01_1906CV_cover",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 1",
+                "description": "Canned Description 1",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "tower",
+                "author": "Ralph Stone",
+                "authorUrl" : "http://adobe.com"             
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/02_1906ST_essay;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/02_1906ST_essay;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:02_1906ST_essay",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 2",
+                "description": "Canned Description 2",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "hero",
+				"author": "Terry Stone",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/01_Folio_TOC;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/01_Folio_TOC;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:01_Folio_TOC",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 3",
+                "description": "Canned Description 3",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "Freddie Stone",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/04_dept_anderson_110117;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/04_dept_anderson_110117;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:04_dept_anderson_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 4",
+                "description": "Canned Description 4",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "author": "All In One - Web Contnet",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/02_Folio_Overview;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/02_Folio_Overview;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:02_Folio_Overview",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 5",
+                "description": "Canned Description 5",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "All In One - Web Contnet",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/03_Design;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/03_Design;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:03_Design",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 6",
+                "description": "Canned Description 6",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "George Stone",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/05_fiction_hwang_101101;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/05_fiction_hwang_101101;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:05_fiction_hwang_101101",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 7",
+                "description": "Canned Description 7",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Felix Stone",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/06_crit_lahr_110117;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/06_crit_lahr_110117;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:06_crit_lahr_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 8",
+                "description": "Canned Description 8",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Terry Stone",
+                "authorUrl" : "http://adobe.com"  
+            } 
+        ]
+    }
+}

@@ -1,0 +1,1169 @@
+{
+    "version": 1405707625,
+    "totalNumberOfItems": 200,
+    "_links": {
+        "self": {
+            "href": "/publications/com.viewerdemo_win_tablet/views/largecollection;version=1405707625/elements"
+        },
+        "latestVersion": {
+            "href": "/publications/com.viewerdemo_win_tablet/views/largecollection/elements"
+        },
+        "next": {
+            "href": "/publications/com.viewerdemo_win_tablet/views/largecollection;version=1405707625/elements?after=MTQwNTcwNzYyNTowMDAwMDAwMDI1OjMwMzE3NjM="
+        }
+    },
+    "_embedded": {
+        "elements": [
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/02_Image_Pans_100_percent;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/02_Image_Pans_100_percent;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:02_Image_Pans_100_percent",
+                "version": 1405707625,
+                "title": "02_Image_Pans_100_percent",
+                "description": "02_Image_Pans_100_percent description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "02_Image_Pans_100_percent Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/04_Image_Pans_50_percent;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/04_Image_Pans_50_percent;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:04_Image_Pans_50_percent",
+                "version": 1405707625,
+                "title": "04_Image_Pans_50_percent",
+                "description": "04_Image_Pans_50_percent description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "04_Image_Pans_50_percent Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/05_WebContentNavtoSameStack;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/05_WebContentNavtoSameStack;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:05_WebContentNavtoSameStack",
+                "version": 1405707625,
+                "title": "05_WebContentNavtoSameStack",
+                "description": "05_WebContentNavtoSameStack description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "05_WebContentNavtoSameStack Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/06_Image_Pans_200_percent;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/06_Image_Pans_200_percent;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:06_Image_Pans_200_percent",
+                "version": 1405707625,
+                "title": "06_Image_Pans_200_percent",
+                "description": "06_Image_Pans_200_percent description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "06_Image_Pans_200_percent Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/11_Slideshow_Autoplay;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/11_Slideshow_Autoplay;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:11_Slideshow_Autoplay",
+                "version": 1405707625,
+                "title": "11_Slideshow_Autoplay",
+                "description": "11_Slideshow_Autoplay description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "11_Slideshow_Autoplay Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/12_Slideshow_Delay_with_Swipe_and_Tap;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/12_Slideshow_Delay_with_Swipe_and_Tap;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:12_Slideshow_Delay_with_Swipe_and_Tap",
+                "version": 1405707625,
+                "title": "12_Slideshow_Delay_with_Swipe_and_Tap",
+                "description": "12_Slideshow_Delay_with_Swipe_and_Tap description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "12_Slideshow_Delay_with_Swipe_and_Tap Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/13_Slideshow_Buttons_MSOs_Same_Name;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/13_Slideshow_Buttons_MSOs_Same_Name;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:13_Slideshow_Buttons_MSOs_Same_Name",
+                "version": 1405707625,
+                "title": "13_Slideshow_Buttons_MSOs_Same_Name",
+                "description": "13_Slideshow_Buttons_MSOs_Same_Name description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "13_Slideshow_Buttons_MSOs_Same_Name Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/14_Edge_and_HTML_Page_Items;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/14_Edge_and_HTML_Page_Items;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:14_Edge_and_HTML_Page_Items",
+                "version": 1405707625,
+                "title": "14_Edge_and_HTML_Page_Items",
+                "description": "14_Edge_and_HTML_Page_Items description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "14_Edge_and_HTML_Page_Items Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/15_ObjectInsertHTML;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/15_ObjectInsertHTML;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:15_ObjectInsertHTML",
+                "version": 1405707625,
+                "title": "In15_ObjectInsertHTMLspire",
+                "description": "15_ObjectInsertHTML description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "15_ObjectInsertHTML Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/16_BackgroundAudio;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/16_BackgroundAudio;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:16_BackgroundAudio",
+                "version": 1405707625,
+                "title": "16_BackgroundAudio",
+                "description": "16_BackgroundAudio description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "16_BackgroundAudio Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/17_LastFrameVideo;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/17_LastFrameVideo;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:17_LastFrameVideo",
+                "version": 1405707625,
+                "title": "17_LastFrameVideo",
+                "description": "17_LastFrameVideo description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "17_LastFrameVideo Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/18_Audio_in_Slideshow;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/18_Audio_in_Slideshow;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:18_Audio_in_Slideshow",
+                "version": 1405707625,
+                "title": "18_Audio_in_Slideshow",
+                "description": "18_Audio_in_Slideshow description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "18_Audio_in_Slideshow Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/19_Audio_MSO_Overlap;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/19_Audio_MSO_Overlap;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:19_Audio_MSO_Overlap",
+                "version": 1405707625,
+                "title": "19_Audio_MSO_Overlap",
+                "description": "19_Audio_MSO_Overlap description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "19_Audio_MSO_Overlap Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/20_PDFPlus_Raster_Vector;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/20_PDFPlus_Raster_Vector;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:20_PDFPlus_Raster_Vector",
+                "version": 1405707625,
+                "title": "20_PDFPlus_Raster_Vector",
+                "description": "20_PDFPlus_Raster_Vector description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "20_PDFPlus_Raster_Vector Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/21_PDFPlus_SD_HD_Assets;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/21_PDFPlus_SD_HD_Assets;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:21_PDFPlus_SD_HD_Assets",
+                "version": 1405707625,
+                "title": "21_PDFPlus_SD_HD_Assets",
+                "description": "21_PDFPlus_SD_HD_Assets description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "21_PDFPlus_SD_HD_Assets Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/22_Web_Overlay_Entitlement;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/22_Web_Overlay_Entitlement;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:22_Web_Overlay_Entitlement",
+                "version": 1405707625,
+                "title": "22_Web_Overlay_Entitlement",
+                "description": "22_Web_Overlay_Entitlement description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "22_Web_Overlay_Entitlement Author",
+                "authorUrl" : "http://adobe.com"
+            },
+             {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/00_Folio_Cover;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/00_Folio_Cover;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:00_Folio_Cover",
+                "version": 1405707625,
+                "title": "00_Folio_Cover",
+                "description": "00_Folio_Cover description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "tower",
+                "author": "00_Folio_Cover Author",
+                "authorUrl" : "http://adobe.com"             
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/01_Folio_TOC;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/01_Folio_TOC;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:01_Folio_TOC",
+                "version": 1405707625,
+                "title": "01_Folio_TOC",
+                "description": "01_Folio_TOC description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "hero",
+				"author": "01_Folio_TOC Author",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/02_Folio_Overview;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/02_Folio_Overview;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:02_Folio_Overview",
+                "version": 1405707625,
+                "title": "02_Folio_Overview",
+                "description": "02_Folio_Overview description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "02_Folio_Overview Author",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/03_Design;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/03_Design;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:03_Design",
+                "version": 1405707625,
+                "title": "03_Design",
+                "description": "03_Design description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "author": "03_Design Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/04_Folio_Create;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/04_Folio_Create;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:04_Folio_Create",
+                "version": 1405707625,
+                "title": "04_Folio_Create",
+                "description": "04_Folio_Create description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "04_Folio_Create Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/05_Folio_Preview;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/05_Folio_Preview;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:05_Folio_Preview",
+                "version": 1405707625,
+                "title": "05_Folio_Preview",
+                "description": "05_Folio_Preview description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "05_Folio_Preview Author",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/06_Folio_Producer;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/06_Folio_Producer;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:06_Folio_Producer",
+                "version": 1405707625,
+                "title": "06_Folio_Producer",
+                "description": "06_Folio_Producer description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "06_Folio_Producer Author",
+                "authorUrl" : "http://adobe.com"  
+            } ,
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/12_Gallery;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/12_Gallery;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:12_Gallery",
+                "version": 1405707625,
+                "title": "12_Gallery",
+                "description": "12_Gallery description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "12_Gallery Author",
+                "authorUrl" : "http://adobe.com"  
+            } ,
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/99_Credits;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/99_Credits;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:99_Credits",
+                "version": 1405707625,
+                "title": "99_Credits",
+                "description": "99_Credits description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "99_Credits Author",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/HTML_Accessible_1;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/HTML_Accessible_1;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:HTML_Accessible_1",
+                "version": 1405707625,
+                "title": "html_accessible_1",
+                "description": "html_accessible_1 description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "tower",
+                "author": "html_accessible_1 Author",
+                "authorUrl" : "http://adobe.com"             
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/HTML_Accessible_2;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/HTML_Accessible_2;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:HTML_Accessible_2",
+                "version": 1405707625,
+                "title": "html_accessible_2",
+                "description": "html_accessible_2 description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "hero",
+				"author": "html_accessible_2 Author",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/HTML_Accessible_1_P;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/HTML_Accessible_1_P;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:HTML_Accessible_1_P",
+                "version": 1405707625,
+                "title": "html_accessible_1_p",
+                "description": "html_accessible_1_p description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "html_accessible_1_p Author",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/HTML_Accessible_2;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/HTML_Accessible_2;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:HTML_Accessible_2",
+                "version": 1405707625,
+                "title": "html_accessible_2",
+                "description": "html_accessible_2 description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "author": "html_accessible_2 Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/HTML_Accessible_2_L;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/HTML_Accessible_2_L;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:HTML_Accessible_2_L",
+                "version": 1405707625,
+                "title": "html_accessible_2_l",
+                "description": "html_accessible_2_l description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "html_accessible_2_l Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/HTML_Accessible_2_P;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/HTML_Accessible_2_P;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:HTML_Accessible_2_P",
+                "version": 1405707625,
+                "title": "html_accessible_2_p",
+                "description": "html_accessible_2_p description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "html_accessible_2_p Author",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/01_1906CV_cover;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/01_1906CV_cover;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:01_1906CV_cover",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 1",
+                "description": "Canned Description 1",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "tower",
+                "author": "Ralph Stone",
+                "authorUrl" : "http://adobe.com"             
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/02_1906ST_essay;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/02_1906ST_essay;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:02_1906ST_essay",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 2",
+                "description": "Canned Description 2",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "hero",
+				"author": "Terry Stone",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/01_Folio_TOC;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/01_Folio_TOC;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:01_Folio_TOC",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 3",
+                "description": "Canned Description 3",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "Freddie Stone",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/04_dept_anderson_110117;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/04_dept_anderson_110117;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:04_dept_anderson_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 4",
+                "description": "Canned Description 4",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "wide",
+                "author": "All In One - Web Contnet",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/02_Folio_Overview;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/02_Folio_Overview;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:02_Folio_Overview",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 5",
+                "description": "Canned Description 5",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "All In One - Web Contnet",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/03_Design;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/03_Design;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:03_Design",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 6",
+                "description": "Canned Description 6",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "George Stone",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/05_fiction_hwang_101101;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/05_fiction_hwang_101101;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:05_fiction_hwang_101101",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 7",
+                "description": "Canned Description 7",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Felix Stone",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/06_crit_lahr_110117;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/06_crit_lahr_110117;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:06_crit_lahr_110117",
+                "version": 1405707625,
+                "title": "Canned Magazine Title 8",
+                "description": "Canned Description 8",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "small",
+                "author": "Terry Stone",
+                "authorUrl" : "http://adobe.com"  
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/02_Image_Pans_100_percent;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/02_Image_Pans_100_percent;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:02_Image_Pans_100_percent",
+                "version": 1405707625,
+                "title": "02_Image_Pans_100_percent",
+                "description": "02_Image_Pans_100_percent description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "02_Image_Pans_100_percent Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/04_Image_Pans_50_percent;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/04_Image_Pans_50_percent;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:04_Image_Pans_50_percent",
+                "version": 1405707625,
+                "title": "04_Image_Pans_50_percent",
+                "description": "04_Image_Pans_50_percent description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "04_Image_Pans_50_percent Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/05_WebContentNavtoSameStack;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/05_WebContentNavtoSameStack;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:05_WebContentNavtoSameStack",
+                "version": 1405707625,
+                "title": "05_WebContentNavtoSameStack",
+                "description": "05_WebContentNavtoSameStack description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "05_WebContentNavtoSameStack Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/06_Image_Pans_200_percent;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/06_Image_Pans_200_percent;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:06_Image_Pans_200_percent",
+                "version": 1405707625,
+                "title": "06_Image_Pans_200_percent",
+                "description": "06_Image_Pans_200_percent description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "06_Image_Pans_200_percent Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/11_Slideshow_Autoplay;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/11_Slideshow_Autoplay;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:11_Slideshow_Autoplay",
+                "version": 1405707625,
+                "title": "11_Slideshow_Autoplay",
+                "description": "11_Slideshow_Autoplay description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "11_Slideshow_Autoplay Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/12_Slideshow_Delay_with_Swipe_and_Tap;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/12_Slideshow_Delay_with_Swipe_and_Tap;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:12_Slideshow_Delay_with_Swipe_and_Tap",
+                "version": 1405707625,
+                "title": "12_Slideshow_Delay_with_Swipe_and_Tap",
+                "description": "12_Slideshow_Delay_with_Swipe_and_Tap description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "12_Slideshow_Delay_with_Swipe_and_Tap Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/13_Slideshow_Buttons_MSOs_Same_Name;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/13_Slideshow_Buttons_MSOs_Same_Name;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:13_Slideshow_Buttons_MSOs_Same_Name",
+                "version": 1405707625,
+                "title": "13_Slideshow_Buttons_MSOs_Same_Name",
+                "description": "13_Slideshow_Buttons_MSOs_Same_Name description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "13_Slideshow_Buttons_MSOs_Same_Name Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/14_Edge_and_HTML_Page_Items;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/14_Edge_and_HTML_Page_Items;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:14_Edge_and_HTML_Page_Items",
+                "version": 1405707625,
+                "title": "14_Edge_and_HTML_Page_Items",
+                "description": "14_Edge_and_HTML_Page_Items description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "14_Edge_and_HTML_Page_Items Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/15_ObjectInsertHTML;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/15_ObjectInsertHTML;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:15_ObjectInsertHTML",
+                "version": 1405707625,
+                "title": "In15_ObjectInsertHTMLspire",
+                "description": "15_ObjectInsertHTML description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "15_ObjectInsertHTML Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/16_BackgroundAudio;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/16_BackgroundAudio;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:16_BackgroundAudio",
+                "version": 1405707625,
+                "title": "16_BackgroundAudio",
+                "description": "16_BackgroundAudio description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "16_BackgroundAudio Author",
+                "authorUrl" : "http://adobe.com"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "type": "application/vnd.adobe.article.v1.0+json",
+                        "href": "/publications/com.viewerdemo_win_tablet/articles/17_LastFrameVideo;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewer_shared_content/articles/17_LastFrameVideo;version=1405707625/contents/poster/inspire1_square.jpg",
+                        "type": "image/jpeg",
+                        "width": 100,
+                        "height": 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet:article:17_LastFrameVideo",
+                "version": 1405707625,
+                "title": "17_LastFrameVideo",
+                "description": "17_LastFrameVideo description",
+                "published": "2014-04-30T04:00:00Z",
+                "entityType": "article",
+                "cardType": "square",
+                "author": "17_LastFrameVideo Author",
+                "authorUrl" : "http://adobe.com"
+            }
+        ]
+    }
+}

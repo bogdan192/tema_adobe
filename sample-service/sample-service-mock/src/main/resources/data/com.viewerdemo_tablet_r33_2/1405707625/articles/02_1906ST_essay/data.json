@@ -1,0 +1,86 @@
+{
+    "entityType": "article",
+    "entityName": "02_1906ST_essay",
+    "entityId": "urn:publication:com.viewerdemo_tablet_r33_2:article:02_1906ST_essay",
+    "version": 1405707625,
+    "url": "www.viewerdemo_tablet/info",
+    "published": "2014-04-30T04:00:00Z",
+    "created": "2014-04-30T03:56:00Z",
+    "modified": "2014-04-30T03:59:00Z",
+    "title": "Canned Magazine Title 2",
+    "description": "Canned Description 2",
+    "keywords": [
+        "economy",
+        "finance"
+    ],
+    "analyticsId": "AN2331231",
+    "department": "Design",
+    "byline": "By Pat Walters, Photograph and video by Marco Grob",
+    "bylineUrl": "www.somebyline.com",
+    "isSpecialContent": false,
+    "isTrustedContent": false,
+    "isAd": false,
+    "adType": "static",
+    "adCategory": "technology",
+    "advertiser": "Advertiser Name",
+    "importance": "high",
+    "language": "eng",
+    "accessState": "free",
+    "includeInHome": true,
+    "hideFromBrowsePage": true,
+    "_links": {
+        "self": {
+            "href": "/publications/com.viewerdemo_tablet_r33_2/articles/02_1906ST_essay;version=1405707625"
+        },
+        "latestVersion": {
+            "href": "/publications/com.viewerdemo_tablet_r33_2/articles/02_1906ST_essay"
+        },
+        "relatedContent": [
+            {
+                "href": "http://search.dps.adobe.com/publications/com.viewerdemo_tablet_r33_2/articles;version=1405707625?related=864938",
+                "type": "application/json",
+                "version": 1405707625
+            }
+        ],
+        "contentUrl": {
+            "href": "/publications/com.viewer_shared_content_r33_2/articles/02_1906ST_essay;version=1405707625/contents",
+            "type": "application/json",
+            "version": 1405707625
+        },
+        "articleFolio": {
+            "href": "/publications/com.viewer_shared_content_r33_2/articles/02_1906ST_essay;version=1405707625/contents/folio/manifest.json",
+            "type": "application/json",
+            "version": 1405707625
+        },
+        "teaser": {
+            "href": "/publications/com.viewer_shared_content_r33_2/articles/02_1906ST_essay;version=1405707625/contents/poster/poster_teaser.jpg",
+            "type": "image/jpeg",
+            "width": 512,
+            "height": 512
+        },
+        "sidebar": {
+            "href": "/publications/com.viewer_shared_content_r33_2/articles/02_1906ST_essay;version=1405707625/contents/poster/poster_sidebar.jpg",
+            "type": "image/jpeg",
+            "width": 512,
+            "height": 512
+        },
+        "original": {
+            "href": "/publications/com.viewer_shared_content_r33_2/articles/02_1906ST_essay;version=1405707625/contents/poster/poster_original.jpg",
+            "type": "image/jpeg",
+            "width": 1024,
+            "height": 768
+        },
+        "full": {
+            "href": "/publications/com.viewer_shared_content_r33_2/articles/02_1906ST_essay;version=1405707625/contents/poster/poster_full.jpg",
+            "type": "image/jpeg",
+            "width": 1024,
+            "height": 768
+        },
+        "thumbnail": {
+            "href": "/publications/com.viewer_shared_content_r33_2/articles/02_1906ST_essay;version=1405707625/contents/poster/poster_thumbnail.jpg",
+            "type": "image/jpeg",
+            "width": 100,
+            "height": 100
+        }
+    }
+}

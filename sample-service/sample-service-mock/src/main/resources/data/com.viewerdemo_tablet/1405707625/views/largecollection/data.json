@@ -1,0 +1,75 @@
+{
+    "entityType": "view",
+    "entityName": "largecollection",
+    "entityId": "urn:publication:com.viewerdemo_tablet:view:largecollection",
+    "version": 1405707625,
+    "url": "www.adobe.com",
+    "published": "2014-04-30T04:00:00Z",
+    "created": "2014-04-30T03:56:00Z",
+    "modified": "2014-04-30T03:59:00Z",
+    "title": "Large Collection Browse Page",
+    "description": "Large Collection Page (r34.1)",
+    "keywords": [
+        "art",
+        "style"
+    ],
+    "productIds": [
+        "com.viewerdemo_tablet.product.11",
+        "com.viewerdemo_tablet.product.12"
+    ],
+    "department": "Design",
+    "author": "by fred flinstone, photograph and video by marco grob",
+    "authorUrl": "www.adobe.com",
+    "isAd": false,
+    "articleAdId": "678",
+    "adType": "static",
+    "adCategory": "technology",
+    "advertiser": "Advertiser Name",
+    "importance": "high",
+    "socialShareUrl": "https://twitter.com/Adobe",
+    "isIssue": true,
+    "openTo": "browsePageBeginning",
+    "maxSize": 200,
+    "lateralSwipe": true,
+    "_links": {
+        "self": {
+            "href": "/publications/com.viewerdemo_tablet/views/largecollection;version=1405707625"
+        },
+        "latestVersion": {
+            "href": "/publications/com.viewerdemo_tablet/views/largecollection"
+        },
+        "layout": {
+            "href": "/publications/com.viewerdemo_tablet/layouts/tablet;version=1405707625",
+            "entityId": "urn:publication:com.viewerdemo_tablet:layout:tablet",
+            "type": "application/vnd.adobe.layout.v1.0+json",
+            "entityType": "layout",
+            "version": 1405707625
+        },
+        "elements": {
+            "href": "/publications/com.viewerdemo_tablet/views/largecollection;version=1405707625/elements",
+            "type": "application/json",
+            "version": 1405707625
+        },
+        "thumbnail": {
+            "href": "/publications/com.viewer_shared_content/views/browsepage001;version=1405707625/contents/poster/inspire1_square.jpg",
+            "type": "image/jpeg",
+            "width": 100,
+            "height": 100
+        },
+        "background": {
+            "href": "/publications/com.viewer_shared_content/views/browsepage001;version=1405707625/contents/poster/background.jpg",
+            "type": "image/jpeg",
+            "width": 400,
+            "height": 400
+        },
+        "content": {
+            "href": "/publications/com.viewer_shared_content/views/browsepage001;version=1405707625/contents"
+        },
+        "socialShare": {
+            "href": "/publications/com.viewer_shared_content/views/largecollection;version=1405707625/contents/poster/social.jpg",
+            "type": "image/jpeg",
+            "width": 72,
+            "height": 72
+        }
+    }
+}

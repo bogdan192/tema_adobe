@@ -1,0 +1,13 @@
+{
+    "type": "object",
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "id": "http://jsonschema.net#",
+     "properties" : {
+     "items": {
+        "type": "array",
+        "id": "http://jsonschema.net/_links/items#",
+        "items": {
+            "$ref": "link.json"
+        }
+    }}
+}

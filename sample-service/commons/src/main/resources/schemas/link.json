@@ -1,0 +1,35 @@
+{
+    "type": "object",
+    "javaType": "com.adobe.dps.sample.model.aggregated.Links",
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "id": "http://jsonschema.net#",
+    "properties": {
+        "name": {
+            "type": "string",
+            "id": "http://jsonschema.net/link/name#"
+        },
+        "href": {
+            "type": "string",
+            "id": "http://jsonschema.net/link/href#"
+        },
+        "templated": {
+            "type": "boolean",
+            "id": "http://jsonschema.net/link/templated#"
+        },
+        "id": {
+            "type": "string",
+            "id": "http://jsonschema.net/link/id#"
+        },
+        "version": {
+            "type": "integer",
+            "id": "http://jsonschema.net/link/version#"
+        },
+        "type": {
+            "type": "string",
+            "id": "http://jsonschema.net/link/type#"
+        }
+    },
+    "required": [
+        "href"
+    ]
+}

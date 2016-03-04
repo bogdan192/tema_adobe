@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  ~ ADOBE CONFIDENTIAL
+  ~   ___________________
+  ~
+  ~    Copyright 2014 Adobe Systems Incorporated
+  ~    All Rights Reserved.
+  ~
+  ~   NOTICE:  All information contained herein is, and remains
+  ~   the property of Adobe Systems Incorporated and its suppliers,
+  ~   if any.  The intellectual and technical concepts contained
+  ~   herein are proprietary to Adobe Systems Incorporated and its
+  ~   suppliers and are protected by trade secret or copyright law.
+  ~   Dissemination of this information or reproduction of this material
+  ~   is strictly forbidden unless prior written permission is obtained
+  ~   from Adobe Systems Incorporated.
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.adobe.dps.samples</groupId>
+    <artifactId>sample-service</artifactId>
+    <version>0.1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <name>Sample Service</name>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <modules>
+        <module>component-parent</module>
+        <module>http-binding-parent</module>
+        <module>commons</module>
+        <module>sample-api</module>
+        <module>sample-service-mock</module>
+        <module>sample-api-http-binding</module>
+    </modules>
+
+    <!-- tomcat configurations -->
+    <build>
+        <pluginManagement>
+            <plugins>
+                <plugin>
+                    <groupId>org.apache.tomcat.maven</groupId>
+                    <artifactId>tomcat7-maven-plugin</artifactId>
+                    <version>2.2</version>
+                    <configuration>
+                        <contextReloadable>true</contextReloadable>
+                        <path>/</path>
+                    </configuration>
+                </plugin>
+                <plugin>
+                    <groupId>org.codehaus.mojo</groupId>
+                    <artifactId>buildnumber-maven-plugin</artifactId>
+                    <version>1.3</version>
+                    <configuration>
+                        <getRevisionOnlyOnce>true</getRevisionOnlyOnce>
+                    </configuration>
+                </plugin>
+            </plugins>
+        </pluginManagement>
+    </build>
+
+</project>

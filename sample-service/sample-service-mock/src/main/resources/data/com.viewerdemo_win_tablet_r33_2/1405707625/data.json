@@ -1,0 +1,47 @@
+{
+	"entityType": "publication",
+    "entityName": "com.viewerdemo_win_tablet_r33_2",
+    "entityId": "urn:publication:com.viewerdemo_win_tablet_r33_2",
+    "version": 1405707625,
+    "url": "http://dps.adobe.com",
+    "published": "2014-04-30T04:00:00Z",
+    "created": "2014-04-30T03:56:00Z",
+    "modified": "2014-04-30T03:59:00Z",
+    "title": "Adobe DPS R32 Viewer Windows Tablet Magazine",
+    "analyticsId": "AN233123",
+    "productIds": [
+        "com.viewerdemo_win_tablet_r33_2.ABC0000BG12I",
+        "com.viewerdemo_win_tablet_r33_2.ABC0000BG14I"
+    ],
+    "_links": {
+        "self": {
+            "href": "/publications/com.viewerdemo_win_tablet_r33_2;version=1405707625"
+        },
+        "latestVersion": {
+            "href": "/publications/com.viewerdemo_win_tablet_r33_2"
+        }
+    },
+    "_embedded": {
+        "views": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "/publications/com.viewerdemo_win_tablet_r33_2/views/browsepage001;version=1405707625"
+                    },
+                    "thumbnail": {
+                        "href": "/publications/com.viewerdemo_win_tablet_r33_2/views/browsepage001;version=1405707625/contents/poster/poster_thumbnail.jpg",
+                        "type": "image/jpeg",
+						"width": 100,
+						"height" : 100
+                    }
+                },
+                "entityId": "urn:publication:com.viewerdemo_win_tablet_r33_2:view:browsepage001",
+                "title": "browse page folios 001",
+                "description": "A top level view of content",
+                "published": "2014-04-30T04:00:00Z",
+                "version": 1405707625,
+                "entityType": "view"
+            }
+        ]
+    }
+}
