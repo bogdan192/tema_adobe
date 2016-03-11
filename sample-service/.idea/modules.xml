@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/sample-api-http-binding/sample-api-http-binding.iml" filepath="$PROJECT_DIR$/sample-api-http-binding/sample-api-http-binding.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-service.iml" filepath="$PROJECT_DIR$/sample-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample-service-mock/sample-service-mock.iml" filepath="$PROJECT_DIR$/sample-service-mock/sample-service-mock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-service/test-service.iml" filepath="$PROJECT_DIR$/test-service/test-service.iml" />
     </modules>
   </component>
 </project>
+

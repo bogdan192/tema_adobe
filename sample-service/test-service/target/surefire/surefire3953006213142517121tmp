@@ -1,0 +1,5 @@
+#surefire
+#Fri Mar 11 10:57:19 EET 2016
+user.dir=/home/test/Downloads/tema_adobe/sample-service/test-service
+localRepository=/home/test/.m2/repository
+basedir=/home/test/Downloads/tema_adobe/sample-service/test-service

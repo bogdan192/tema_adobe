@@ -1,0 +1,6 @@
+#surefire
+#Fri Mar 11 10:29:32 EET 2016
+user.dir=/home/test/Downloads/tema_adobe/sample-service/test-service
+localRepository=/home/test/.m2/repository
+basedir=/home/test/Downloads/tema_adobe/sample-service/test-service
+test=com.adobe.dps.sample.service.test.TestSimpleService

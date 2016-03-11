@@ -12,7 +12,6 @@
       <entry name="!?*.flex" />
       <entry name="!?*.kt" />
       <entry name="!?*.clj" />
-      <entry name="!?*.aj" />
     </wildcardResourcePatterns>
     <annotationProcessing>
       <profile default="true" name="Default" enabled="false">
@@ -27,7 +26,17 @@
         <module name="sample-api" />
         <module name="sample-api-http-binding" />
         <module name="sample-service-mock" />
+        <module name="test-service" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="commons" target="1.7" />
+      <module name="component-parent" target="1.7" />
+      <module name="http-binding-parent" target="1.7" />
+      <module name="sample-api" target="1.7" />
+      <module name="sample-api-http-binding" target="1.7" />
+      <module name="sample-service-mock" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
+

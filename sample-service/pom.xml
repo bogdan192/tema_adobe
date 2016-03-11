@@ -37,6 +37,7 @@
         <module>sample-api</module>
         <module>sample-service-mock</module>
         <module>sample-api-http-binding</module>
+        <module>test-service</module>
     </modules>
 
     <!-- tomcat configurations -->
